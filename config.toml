@@ -2,11 +2,11 @@
 
 baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "John Doe Resume"
+title = "MS Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
-# Do not build files for websites. Need them? Set to false
+# Do not build files for websites. Need them? Set to fals
 disableRSS = true
 disableSitemap = true
 disable404 = true
@@ -24,13 +24,13 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles.css"
+    styles = "styles-3.css"
 
 # Sidebar sections
 
     # Profile section
     [params.profile]
-        name = "John Doe"
+        name = "Markus Sommerfeld"
         tagline = "Full Stack Developer"
         avatar = "profile.png"
 
