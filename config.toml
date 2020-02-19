@@ -2,7 +2,7 @@
 
 baseurl = "https://markussommerfeld-cv.netlify.com/"
 languageCode = "en-us"
-title = "John Doe Resume"
+title = "Markus Sommerfeld Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -30,8 +30,8 @@ disable404 = true
 
     # Profile section
     [params.profile]
-        name = "John Doe"
-        tagline = "Full Stack Developer"
+        name = "Markus Sommerfeld"
+        tagline = "Futurist and Engineer"
         avatar = "profile.png"
 
     # Contact section
@@ -41,8 +41,8 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: yourname@email.com"
-        title = "john.doe@website.com"
+        url = "mailto: msommerf@uvic.ca"
+        title = "msommerf@uvic.ca"
 
         [[params.contact.list]]
         class = "phone"
@@ -53,26 +53,26 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//portfoliosite.com"
-        title = "portfoliosite.com"
+        url = "https://markussommerfeld-academic.netlify.com/"
+        title = "markussommerfeld-academic.com"
 
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "//linkedin.com/in/johndoe"
-        title = "linkedin.com/in/johndoe"
+        url = "https://www.linkedin.com/in/markus-sommerfeld/"
+        title = "linkedin.com/in/markus-sommerfeld/"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/username"
-        title = "github.com/username"
+        url = "https://github.com/markussommerfeld"
+        title = "github.com/markussommerfeld"
 
         [[params.contact.list]]
         class = "twitter"
         icon = "fa-twitter"
-        url = "//twitter.com/username"
-        title = "@twittername"
+        url = "https://twitter.com/Dudegoesplaces"
+        title = "@Dudegoesplaces"
 
     # Education section
     [params.education]
@@ -80,7 +80,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
+        degree = "MSc in Mechanical Engineering"
         college = "University of London"
         dates = "2006 - 2010"
 
