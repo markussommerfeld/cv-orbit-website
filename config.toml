@@ -3,7 +3,7 @@
 baseurl = "https://markussommerfeld-cv.netlify.com/"
 languageCode = "en-us"
 title = "Markus Sommerfeld Resume"
-theme = "hugo-orbit-theme"
+theme = "hugo-orbit-theme_modified"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 # Do not build files for websites. Need them? Set to false
@@ -95,16 +95,20 @@ disable404 = true
         title = "Languages"
 
         [[params.language.list]]
-        language = "English"
+        language = "German"
         level = "Native"
 
         [[params.language.list]]
-        language = "French"
+        language = "English"
         level = "Professional"
 
         [[params.language.list]]
-        language = "Russian"
-        level = "Professional"
+        language = "Japanese"
+        level = "Intermediate"
+
+        [[params.language.list]]
+        language = "French"
+        level = "Intermediate"
 
     # Interests section
     [params.interests]
