@@ -143,6 +143,20 @@ p {
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
 }
+.sidebar-wrapper .dot_empty {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.sidebar-wrapper .dot_full {
+  height: 25px;
+  width: 25px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+}
 .sidebar-wrapper .interests-list {
   margin-bottom: 0;
 }
