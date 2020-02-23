@@ -2,9 +2,12 @@
                 <h2 class="container-block-title">{{ i18n "language" }}</h2>
                 <ul class="list-unstyled interests-list">
 				{{ range .Site.Params.language.list }}
-                    <li>{{ .language }}  <span class="dot_empty"></span>
-					<span class="dot_empty"></span><span class="dot_empty"></span>
-					<span class="dot_empty"></span><span class="dot_empty"></span> ({{ .level }})</span></li>
+                    <li>{{ .language }}
+							<div class="dot_empty">
+                            <div class="dot_full" data-level="{{ .level }}">
+                            </div>
+                        </div><!--//level-bar-->
+    </li>
 				{{ end }}
                 </ul>
             </div><!--//language-->

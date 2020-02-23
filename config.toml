@@ -96,7 +96,7 @@ disable404 = true
 
         [[params.language.list]]
         language = "German"
-        level = "Native"
+        level = "50%"
 
         [[params.language.list]]
         language = "English"
