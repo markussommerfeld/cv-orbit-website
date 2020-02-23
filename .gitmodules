@@ -1,3 +1,4 @@
 [submodule "themes/hugo-orbit-theme"]
+	ignore = dirty
 	path = themes/hugo-orbit-theme
 	url = https://github.com/aerohub/hugo-orbit-theme.git
