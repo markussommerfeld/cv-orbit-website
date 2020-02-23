@@ -96,19 +96,19 @@ disable404 = true
 
         [[params.language.list]]
         language = "German"
-        level = "50%"
+        level = "5"
 
         [[params.language.list]]
         language = "English"
-        level = "Professional"
+        level = "4"
 
         [[params.language.list]]
         language = "Japanese"
-        level = "Intermediate"
+        level = "2"
 
         [[params.language.list]]
         language = "French"
-        level = "Intermediate"
+        level = "2"
 
     # Interests section
     [params.interests]

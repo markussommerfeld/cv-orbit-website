@@ -144,16 +144,16 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .dot_empty {
-  height: 25px;
-  width: 25px;
+  height: 22px;
+  width: 22x;
   border: 2px solid white;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
 }
 .sidebar-wrapper .dot_full {
-  height: 25px;
-  width: 25px;
+  height: 22px;
+  width: 22px;
   border: 2px solid white;
   background-color: #fff;
   border-radius: 50%;
