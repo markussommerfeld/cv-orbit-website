@@ -79,36 +79,36 @@ disable404 = true
         enable = true
         title = "Education"
 
+		[[params.education.list]]
+        degree = "PhD in Mechanical Engineering"
+        college = "University of Victoria, BC Canada"
+        dates = "2015 - 2020"
+		
         [[params.education.list]]
-        degree = "MSc in Mechanical Engineering"
-        college = "University of London"
-        dates = "2006 - 2010"
-
-        [[params.education.list]]
-        degree = "BSc in Applied Mathematics"
-        college = "Bristol University"
-        dates = "2007 - 2011"
+        degree = "Dipl.-Ing. in Mechanical Engineering"
+        college = "Technical University Kaiserslautern, Germany"
+        dates = "2008 - 2014"
 
     # Languages section
-    [params.language]
-        enable = true
-        title = "Languages"
+    #[params.language]
+    #   enable = true
+	#       title = "Languages"
+	#
+    #    [[params.language.list]]
+    #    language = "German"
+    #    level = "5"
 
-        [[params.language.list]]
-        language = "German"
-        level = "5"
+    #    [[params.language.list]]
+    #    language = "English"
+    #    level = "4"
 
-        [[params.language.list]]
-        language = "English"
-        level = "4"
+    #    [[params.language.list]]
+    #    language = "Japanese"
+    #    level = "2"
 
-        [[params.language.list]]
-        language = "Japanese"
-        level = "2"
-
-        [[params.language.list]]
-        language = "French"
-        level = "2"
+    #    [[params.language.list]]
+    #    language = "French"
+    #    level = "2"
 
     # Interests section
     [params.interests]
@@ -116,10 +116,10 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Climbing"
+        interest = "Crossfit"
 
         [[params.interests.list]]
-        interest = "Snowboarding"
+        interest = "Technology"
 
         [[params.interests.list]]
         interest = "Cooking"
@@ -190,6 +190,20 @@ disable404 = true
         title = "Me"
         url = "https://github.com/aerohub/hugo-me-theme"
         tagline = "A simple responsive Hugo theme for personal site."
+ 
+	# Publication section
+    [params.projects]
+	 enable = true
+	icon = "fa-file-alt"
+	title = "Publications"
+	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+ 
+	# Publication section
+    [params.projects]
+	 enable = true
+	icon = "fa-presentation"
+	title = "Presentations"
+	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
     # Skills section
     [params.skills]
