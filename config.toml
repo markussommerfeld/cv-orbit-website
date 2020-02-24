@@ -198,7 +198,7 @@ disable404 = true
 	title = "Publications"
 	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
  
-	# Publication section
+	# Presentation section
     [params.projects]
 	 enable = true
 	icon = "fa-presentation"
