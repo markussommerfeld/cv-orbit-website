@@ -197,13 +197,23 @@ disable404 = true
 	icon = "fa-file-alt"
 	title = "Publications"
 	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
- 
+   
+    [[params.publications.list]]
+	title = "Hugrid"
+	url = "https://github.com/aerohub/hugrid"
+	tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+
 	# Presentation section
     [params.presentations]
 	enable = true
 	icon = "fa-presentation"
 	title = "Presentations"
 	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+
+    [[params.presentations.list]]
+        title = "Hugrid"
+        url = "https://github.com/aerohub/hugrid"
+        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
 
     # Skills section
     [params.skills]
