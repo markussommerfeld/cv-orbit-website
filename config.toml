@@ -192,15 +192,15 @@ disable404 = true
         tagline = "A simple responsive Hugo theme for personal site."
  
 	# Publication section
-    [params.projects]
-	 enable = true
+    [params.publications]
+	enable = true
 	icon = "fa-file-alt"
 	title = "Publications"
 	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
  
 	# Presentation section
-    [params.projects]
-	 enable = true
+    [params.presentations]
+	enable = true
 	icon = "fa-presentation"
 	title = "Presentations"
 	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
