@@ -219,7 +219,7 @@ disable404 = true
     [params.skills]
         enable = true
         icon = "fa-rocket"
-        title = "Skills & Proficiency"
+        title = "test" #Skills & Proficiency
 
         [[params.skills.list]]
         skill = "Python & Django"
