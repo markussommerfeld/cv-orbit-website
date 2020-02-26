@@ -204,11 +204,11 @@ disable404 = true
 	tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
 
 	# Presentation section
-    [params.presentations]
-	enable = true
-	icon = "fa-presentation"
-	title = "Presentations"
-	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+    #[params.presentations]
+	#enable = true
+	#icon = "fa-presentation"
+	#title = "Presentations"
+	#intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
     [[params.presentations.list]]
         title = "Hugrid"
@@ -219,7 +219,7 @@ disable404 = true
     [params.skills]
         enable = true
         icon = "fa-rocket"
-        title = "test" #Skills & Proficiency
+        title = "Skills & Proficiency"
 
         [[params.skills.list]]
         skill = "Python & Django"
