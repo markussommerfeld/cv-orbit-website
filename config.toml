@@ -73,6 +73,14 @@ disable404 = true
         icon = "fa-twitter"
         url = "https://twitter.com/Dudegoesplaces"
         title = "@Dudegoesplaces"
+		
+		[[params.contact.list]]
+        class = "researchgate"
+        icon = "fa-researchgate"
+        url = "https://www.researchgate.net/profile/Markus_Sommerfeld"
+        title = "https://www.researchgate.net/profile/Markus_Sommerfeld"
+		
+		 
 
     # Education section
     [params.education]
@@ -88,6 +96,11 @@ disable404 = true
         degree = "Dipl.-Ing. in Mechanical Engineering"
         college = "Technical University Kaiserslautern, Germany"
         dates = "2008 - 2014"
+		
+        [[params.education.list]]
+        degree = "Abitur"
+        college = "Paul Schneider Gymnasium, Meisenheim, Germany"
+        dates = "1997 - 2007"
 
     # Languages section
     #[params.language]
@@ -133,7 +146,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+        summary = ""
 
     # Experiences section
     [params.experiences]
@@ -142,15 +155,23 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
-        dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        position = "PhD"
+        dates = "2015 - 2020"
+        company = "University of Victoria, BC Canada"
+        details = "In my PhD research at the University of Victoria, Canada I determine the wind 
+					energy  potential  of  tall  wind  turbines  and  innovative  new  airborne  wind  energy 
+					systems.  Through  collaboration  with  international  research  institutes,  universities 
+					and companies I developed competence in LiDAR measurement technologies, wind 
+					modeling,  optimization  and  data  analysis.  I  acquired  technical  certification  and 
+					testing experience according to international standards through work experiences in 
+					Japan  and  Germany.  I  am  competent  in  tackling  administrative  tasks  and  work 
+					efficiently  in  multi-cultural  teams  to  achieve  scientific  excellence  and  client 
+					satisfaction."
 
         [[params.jobs.list]]
         position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
+        dates = "2015"
+        company = "Fraunhofer IWES, Bremerhaven Germany"
         details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 
         [[params.jobs.list]]
@@ -167,7 +188,7 @@ disable404 = true
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
         [[params.projects.list]]
-        title = "Hugrid"
+        title = "Master Thesis"
         url = "https://github.com/aerohub/hugrid"
         tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
 
@@ -199,9 +220,14 @@ disable404 = true
 	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
    
     [[params.publications.list]]
-	title = "Hugrid"
-	url = "https://github.com/aerohub/hugrid"
-	tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+	title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
+	url = "https://doi.org/10.1002/we.2343"
+	tagline = ""
+	
+    [[params.publications.list]]
+	title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
+	url = "https://doi.org/10.5194/wes-4-563-2019"
+	tagline = ""
 
 	# Presentation section
     #[params.presentations]
