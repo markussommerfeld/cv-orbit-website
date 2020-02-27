@@ -158,15 +158,7 @@ disable404 = true
         position = "PhD"
         dates = "2015 - 2020"
         company = "University of Victoria, BC Canada"
-        details = "In my PhD research at the University of Victoria, Canada I determine the wind 
-					energy  potential  of  tall  wind  turbines  and  innovative  new  airborne  wind  energy 
-					systems.  Through  collaboration  with  international  research  institutes,  universities 
-					and companies I developed competence in LiDAR measurement technologies, wind 
-					modeling,  optimization  and  data  analysis.  I  acquired  technical  certification  and 
-					testing experience according to international standards through work experiences in 
-					Japan  and  Germany.  I  am  competent  in  tackling  administrative  tasks  and  work 
-					efficiently  in  multi-cultural  teams  to  achieve  scientific  excellence  and  client 
-					satisfaction."
+        details = "In my PhD research at the University of Victoria, Canada I determine the wind energy potential of tall wind turbines and innovative new airborne wind energy systems. Through collaboration with international research institutes, universities and companies I developed competence in LiDAR measurement technologies, wind modeling, optimization and data analysis. I acquired technical certification and testing experience according to international standards through work experiences in Japan and Germany. I am competent in tackling administrative tasks and work efficiently in multicultural teams to achieve scientific excellence and client satisfaction."
 
         [[params.jobs.list]]
         position = "Senior Software Engineer"
@@ -184,13 +176,14 @@ disable404 = true
     [params.projects]
         enable = true
         icon = "fa-archive"
-        title = "Random Text"
+        title = "Projects"
         intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 
         [[params.projects.list]]
         title = "Master Thesis"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+        url = ""
+        tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology:
+					Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
 
         [[params.projects.list]]
         title = "Simple FAQ Theme for Hugo"
