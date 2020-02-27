@@ -182,8 +182,7 @@ disable404 = true
         [[params.projects.list]]
         title = "Master Thesis"
         url = ""
-        tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology:
-					Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
+        tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology: Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
 
         [[params.projects.list]]
         title = "Simple FAQ Theme for Hugo"
