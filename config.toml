@@ -60,13 +60,13 @@ disable404 = true
         class = "linkedin"
         icon = "fa-linkedin"
         url = "https://www.linkedin.com/in/markus-sommerfeld/"
-        title = "linkedin.com/in/markus-sommerfeld/"
+        title = "markus-sommerfeld/"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
         url = "https://github.com/markussommerfeld"
-        title = "github.com/markussommerfeld"
+        title = "markussommerfeld"
 
         [[params.contact.list]]
         class = "twitter"
@@ -214,12 +214,12 @@ disable404 = true
     [[params.publications.list]]
 	title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
 	url = "https://doi.org/10.1002/we.2343"
-	tagline = ""
+	tagline = "Wiley Wind Energy: Volume22, Issue8, August 2019"
 	
     [[params.publications.list]]
 	title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
 	url = "https://doi.org/10.5194/wes-4-563-2019"
-	tagline = ""
+	tagline = "Wind Energy Science, Volume 4, Issue 4, October 2019"
 
 	# Presentation section
     #[params.presentations]
@@ -227,11 +227,11 @@ disable404 = true
 	#icon = "fa-presentation"
 	#title = "Presentations"
 	#intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
-
-    [[params.presentations.list]]
-        title = "Hugrid"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+	#
+    #[[params.presentations.list]]
+    #    title = "Hugrid"
+    #    url = "https://github.com/aerohub/hugrid"
+    #    tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
 
     # Skills section
     [params.skills]
