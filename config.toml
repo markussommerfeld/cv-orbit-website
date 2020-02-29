@@ -209,7 +209,7 @@ disable404 = true
 	enable = true
 	icon = "fa-newspaper-o"
 	title = "Publications"
-	intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+	intro = ""
    
     [[params.publications.list]]
 	title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
