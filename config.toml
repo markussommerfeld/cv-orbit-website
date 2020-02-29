@@ -76,9 +76,9 @@ disable404 = true
 		
 		[[params.contact.list]]
         class = "researchgate"
-        icon = "ai ai-google-scholar-square ai-3x"
+        icon = "ai ai-researchgate ai-3x"
         url = "https://www.researchgate.net/profile/Markus_Sommerfeld"
-        title = "https://www.researchgate.net/profile/Markus_Sommerfeld"
+        title = "Markus_Sommerfeld"
 		
 		 
 
