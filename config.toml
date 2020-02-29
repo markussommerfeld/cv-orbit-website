@@ -167,10 +167,10 @@ disable404 = true
         details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 
         [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = " Grad student representative"
+        dates = "2016 - 2017"
+        company = ", University of  Victoria, Canada"
+        details = "**Describe your role here** Organizational and finance committee experience"
 
     # Projects section
     [params.projects]
@@ -211,16 +211,16 @@ disable404 = true
 	title = "Publications"
 	intro = ""
    
-    [[params.publications.list]]
-	title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
-	url = "https://doi.org/10.1002/we.2343"
-	tagline = "Wiley Wind Energy: Volume22, Issue8, August 2019"
-	
-    [[params.publications.list]]
+   [[params.publications.list]]
 	title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
 	url = "https://doi.org/10.5194/wes-4-563-2019"
 	tagline = "Wind Energy Science, Volume 4, Issue 4, October 2019"
 
+	[[params.publications.list]]
+	title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
+	url = "https://doi.org/10.1002/we.2343"
+	tagline = "Wiley Wind Energy: Volume22, Issue8, August 2019"
+	
 	# Presentation section
     #[params.presentations]
 	#enable = true
@@ -240,20 +240,20 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "98%"
+        skill = "Python & Matlab"
+        level = "90%"
                 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
-        level = "98%"
+        skill = "CAD software: Catia, Solid Edge "
+        level = "70%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
+        skill = "CFD: ANSYS Fluent"
+        level = "80%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
+        skill = "Mesoscale weather modeling: WRF"
+        level = "80%"
 
         [[params.skills.list]]
         skill = "Ruby on Rails"
