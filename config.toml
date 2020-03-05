@@ -164,7 +164,7 @@ disable404 = true
         position = "Research Assistant"
         dates = "2015"
         company = "Fraunhofer IWES, Bremerhaven Germany"
-        details = ""
+        details = " I stayed on the 'BladeMaker' project, after finishing my master thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistant quality."
 
         [[params.jobs.list]]
         position = " Grad student representative"
@@ -210,6 +210,17 @@ disable404 = true
 	icon = "fa-newspaper-o"
 	title = "Publications"
 	intro = ""
+	
+	[[params.publications.list]]
+	title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
+	url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+	tagline = "Airborne Wind Energy Conference 2019"
+
+	[[params.publications.list]]
+	title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
+	url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+	tagline = "Airborne Wind Energy Conference 2019"
+
    
    [[params.publications.list]]
 	title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
@@ -220,6 +231,21 @@ disable404 = true
 	title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
 	url = "https://doi.org/10.1002/we.2343"
 	tagline = "Wiley Wind Energy: Volume22, Issue8, August 2019"
+
+	[[params.publications.list]]
+	title = "High Altitude LiDAR Measurements of the Wind Conditions for Airborne Wind Energy Systems"
+	url = "http://www.awec2017.com/presentations/markus-sommerfeld"
+	tagline = "Airborne Wind Energy Conference 2017"
+
+	[[params.publications.list]]
+	title = "LES generated turbulent inflow fields from mesoscale modeling driven by LiDAR measurements"
+	url = "http://www.awec2017.com/presentations/markus-sommerfeld-2"
+	tagline = "Airborne Wind Energy Conference 2017"
+
+	[[params.publications.list]]
+	title = "AWESome potential: Airborne wind energy’s opportunities and challenges"
+	url = "https://youtu.be/UiriQHZMcs0"
+	tagline = "Pacific Institute for Climate Solutions, March 2018"
 	
 	# Presentation section
     #[params.presentations]
