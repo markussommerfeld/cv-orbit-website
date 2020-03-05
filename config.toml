@@ -185,14 +185,14 @@ disable404 = true
         tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology: Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
 
         [[params.projects.list]]
-        title = "Simple FAQ Theme for Hugo"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
+        title = "Teaching Assistant"
+        url = ""
+        tagline = "Wind Energy, 2x Fluids lab, design cap stone project."
 
         [[params.projects.list]]
-        title = "Hugo Identity"
+        title = "Entrpreneurship Playground"
         url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
+        tagline = "Event organizer"
 
         [[params.projects.list]]
         title = "Orbit"
