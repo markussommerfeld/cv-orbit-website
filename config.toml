@@ -135,7 +135,8 @@ disable404 = true
         interest = "Technology"
 
         [[params.interests.list]]
-        interest = "Cooking"
+        interest = "Cooking & Eating"
+		
 
 # Main body sections
 
@@ -146,8 +147,9 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I acquired technical certification and testing experience through work in Japan and Germany. I am competent at handling administrative tasks and work efficiently in multicultural teams."
-
+        summary = ""
+	# I acquired technical certification and testing experience through work in Japan and Germany. I am competent at handling administrative tasks and work efficiently in multicultural teams.
+	
     # Experiences section
     [params.experiences]
         enable = true
@@ -158,18 +160,30 @@ disable404 = true
         position = "PhD"
         dates = "2015 - 2020"
         company = "University of Victoria, BC Canada"
-        details = "In my PhD research at the University of Victoria I determine the wind energy potential of tall wind turbines and innovative new airborne wind energy systems. Through collaboration with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
+        details = "In my PhD research at the University of Victoria I determined the wind energy potential of tall wind turbines and innovative, new airborne wind energy systems. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
 
         [[params.jobs.list]]
         position = "Research Assistant"
         dates = "2015"
         company = "Fraunhofer IWES, Bremerhaven Germany"
-        details = " I stayed on the 'BladeMaker' project, after finishing my master thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistant quality."
+        details = "I continued working on the 'BladeMaker' project, after finishing my master thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistantly high quality."
+
+       [[params.jobs.list]]
+        position = "Graduate Intern"
+        dates = "2012"
+        company = "Airbus Operations, Hamburg Germany"
+        details = "As an intern at the Structures Test center of Airbus I was responsible for planning, scheduling, executing and analyzing certification experiments. I carried out various component tests on CFRP A350 fuselage parts and repair patches. Additionally, I developed and designed the A400M roller system test rig."
+
+      [[params.jobs.list]]
+        position = "Graduate Intern"
+        dates = "2013 - 2014"
+        company = "TÜV Rheinland, Yokohama Japan"
+        details = "Together with a team of Japanese and international experts I tested and certified photovoltaic modules at the Solar Energy Assessment Center of TÜV Rheinland Japan. We consulted local customers durng the planning phase of large scale solar power plants. I was responsible for calculatng the annual energy yield and independently developed an uncertainty estimation to improve revenue predictions."
 
         [[params.jobs.list]]
         position = " Grad student representative"
         dates = "2016 - 2017"
-        company = ", University of  Victoria, Canada"
+        company = "University of  Victoria, Canada"
         details = "**Describe your role here** Organizational and finance committee experience"
 
     # Projects section
