@@ -146,97 +146,98 @@ disable404 = true
     enable = true
     icon = "fa-user"
     title = "Career Profile"
-    summary = "Researcher, Engineer and Futurist driven by curiosity, motivated by improving quality of life for everybody and exited about technology. As a researcher I aim to reduce the impact of climate change through offering consistent, sustainable energy at a lower cost. As an engineer I took responsibility organizing and executing certification test as well as independently solving interesting design challenges to quickly provide outstanding results.As a futurist I am hopeful that we will be able to overcome our challenges by providing better, sustainable services while improving the quality of life for everyone."    
+    summary = "Researcher, Engineer and Futurist driven by curiosity, motivated by improving quality of life for everybody and exited about technology. <br/>As a researcher I aim to reduce the impact of climate change through offering consistent, sustainable energy at a lower cost. As an engineer I took responsibility organizing and executing certification test as well as independently solving interesting design challenges to quickly provide outstanding results.As a futurist I am hopeful that we will be able to overcome our challenges by providing better, sustainable services while improving the quality of life for everyone."    
 
 	# 
 	# I acquired technical certification and testing experience through work in Japan and Germany. I am competent at handling administrative tasks and work efficiently in multicultural teams.
-
-    # Experiences section
-    [params.experiences]
-        enable = true
-        icon = "fa-briefcase"
-        title = "Experiences"
-    
-        [[params.jobs.list]]
-        position = "PhD"
-        dates = "2015 - 2020"
-        company = "University of Victoria, BC Canada"
-        details = "In my PhD research at the University of Victoria I determined the wind energy potential of tall wind turbines and innovative, new airborne wind energy systems. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
-    
-        [[params.jobs.list]]
-        position = "Research Assistant"
-        dates = "2015"
-        company = "Fraunhofer IWES, Bremerhaven Germany"
-        details = "I continued working on the 'BladeMaker' project, after finishing my master thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistantly high quality."
-    
-       [[params.jobs.list]]
-        position = "Graduate Intern"
-        dates = "2012"
-        company = "Airbus Operations, Hamburg Germany"
-        details = "As an intern at the Structures Test center of Airbus I was responsible for planning, scheduling, executing and analyzing certification experiments. I carried out various component tests on CFRP A350 fuselage parts and repair patches. Additionally, I developed and designed the A400M roller system test rig."
-    
-      [[params.jobs.list]]
-        position = "Graduate Intern"
-        dates = "2013 - 2014"
-        company = "TÜV Rheinland, Yokohama Japan"
-        details = "Together with a team of Japanese and international experts I tested and certified photovoltaic modules at the Solar Energy Assessment Center of TÜV Rheinland Japan. We consulted local customers durng the planning phase of large scale solar power plants. I was responsible for calculatng the annual energy yield and independently developed an uncertainty estimation to improve revenue predictions."
-    
-        [[params.jobs.list]]
-        position = " Grad student representative"
-        dates = "2016 - 2017"
-        company = "University of  Victoria, Canada"
-        details = "**Describe your role here** Organizational and finance committee experience"
-    
-    # Projects section
-    [params.projects]
-        enable = true
-        icon = "fa-archive"
-        title = "Projects"
-        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
-    
-        [[params.projects.list]]
-        title = "Master Thesis"
-        url = ""
-        tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology: Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
-    
-        [[params.projects.list]]
-        title = "Teaching Assistant"
-        url = ""
-        tagline = "Wind Energy, 2x Fluids lab, design cap stone project."
-    
-        [[params.projects.list]]
-        title = "Entrpreneurship Playground"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Event organizer"
-    
-        [[params.projects.list]]
-        title = "Orbit"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
-    
-        [[params.projects.list]]
-        title = "Me"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
-     
-    # Publication section
-    [params.publications]
-    enable = true
-    icon = "fa-newspaper-o"
-    title = "Publications"
-    intro = ""
-    
-    [[params.publications.list]]
-    title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
-    url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
-    tagline = "Airborne Wind Energy Conference 2019"
-    
-    [[params.publications.list]]
-    title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
-    url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
-    tagline = "Airborne Wind Energy Conference 2019"
+	
+	# Experiences section
+	[params.experiences]
+	    enable = true
+	    icon = "fa-briefcase"
+	    title = "Experiences"
+	
+	    [[params.jobs.list]]
+	    position = "PhD"
+	    dates = "2015 - 2020"
+	    company = "University of Victoria, BC Canada"
+	    details = "In my PhD research at the University of Victoria I determined the wind energy potential of tall wind turbines and innovative, new airborne wind energy systems. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
+	
+	    [[params.jobs.list]]
+	    position = "Research Assistant"
+	    dates = "2015"
+	    company = "Fraunhofer IWES, Bremerhaven Germany"
+	    details = "I continued working on the 'BladeMaker' project, after finishing my master thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistantly high quality."
+	
+	   [[params.jobs.list]]
+	    position = "Graduate Intern"
+	    dates = "2012"
+	    company = "Airbus Operations, Hamburg Germany"
+	    details = "As an intern at the Structures Test center of Airbus I was responsible for planning, scheduling, executing and analyzing certification experiments. I carried out various component tests on CFRP A350 fuselage parts and repair patches. Additionally, I developed and designed the A400M roller system test rig."
+	
+	  [[params.jobs.list]]
+	    position = "Graduate Intern"
+	    dates = "2013 - 2014"
+	    company = "TÜV Rheinland, Yokohama Japan"
+	    details = "Together with a team of Japanese and international experts I tested and certified photovoltaic modules at the Solar Energy Assessment Center of TÜV Rheinland Japan. We consulted local customers durng the planning phase of large scale solar power plants. I was responsible for calculatng the annual energy yield and independently developed an uncertainty estimation to improve revenue predictions."
+	
+	    [[params.jobs.list]]
+	    position = " Grad student representative"
+	    dates = "2016 - 2017"
+	    company = "University of  Victoria, Canada"
+	    details = "**Describe your role here** Organizational and finance committee experience"
+	
+	# Projects section
+	[params.projects]
+	    enable = true
+	    icon = "fa-archive"
+	    title = "Projects"
+	    intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+	
+	    [[params.projects.list]]
+	    title = "Master Thesis"
+	    url = ""
+	    tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology: Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
+	
+	    [[params.projects.list]]
+	    title = "Teaching Assistant"
+	    url = ""
+	    tagline = "Wind Energy, 2x Fluids lab, design cap stone project."
+	
+	    [[params.projects.list]]
+	    title = "Entrpreneurship Playground"
+	    url = "https://github.com/aerohub/hugo-identity-theme"
+	    tagline = "Event organizer"
+	
+	    [[params.projects.list]]
+	    title = "Orbit"
+	    url = "https://github.com/aerohub/hugo-orbit-theme"
+	    tagline = "Hugo Resume/CV Theme for Developers."
+	
+	    [[params.projects.list]]
+	    title = "Me"
+	    url = "https://github.com/aerohub/hugo-me-theme"
+	    tagline = "A simple responsive Hugo theme for personal site."
+	 
+	# Publication section
+	[params.publications]
+	enable = true
+	icon = "fa-newspaper-o"
+	title = "Publications"
+	intro = ""
+	
+	[[params.publications.list]]
+	title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
+	url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+	tagline = "Airborne Wind Energy Conference 2019"
+	
+	[[params.publications.list]]
+	title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
+	url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+	tagline = "Airborne Wind Energy Conference 2019"
 
    
+
 
    [[params.publications.list]]
 	title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
