@@ -48,7 +48,7 @@ disable404 = true
         [[params.profile_info.list]]
 		class = "birthday"
 		icon = "fa-birthday-cake"
-        title = "1987 February 3"
+        title = "3 February 1987"
 		
 		[[params.profile_info.list]]
 		class = "location"
