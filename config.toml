@@ -47,19 +47,23 @@ disable404 = true
     
         [[params.profile_info.list]]
 		icon = "fa-birthday-cake"
-        interest = "Family"
+        interest = "1987 February 3"
 		
-		[[params.contact.list]]
-        class = "website"
-        icon = "fa-birthday-cake"
-        #url = ""
-        title = "1987 February 3"
+		[[params.profile_info.list]]
+		icon = "fa-map-marked"
+        interest = "Victoria, BC Canada"
 		
-		[[params.contact.list]]
-        class = "website"
-        icon = "fa-map-marked-alt"
+		#[[params.contact.list]]
+        #class = "website"
+        #icon = "fa-birthday-cake"
         #url = ""
-        title = "Victoria, BC Canada"
+        #title = "1987 February 3"
+		
+		#[[params.contact.list]]
+        #class = "website"
+        #icon = "fa-map-marked-alt"
+        #url = ""
+        #title = "Victoria, BC Canada"
 		
 		
 
