@@ -128,6 +128,9 @@ disable404 = true
         title = "Interests"		
     
         [[params.interests.list]]
+        interest = "Family"
+
+        [[params.interests.list]]
         interest = "Crossfit"
     
         [[params.interests.list]]
@@ -220,51 +223,47 @@ disable404 = true
 	    tagline = "A simple responsive Hugo theme for personal site."
 	 
 	# Publication section
-	[params.publications]
-	enable = true
-	icon = "fa-newspaper-o"
-	title = "Publications"
-	intro = ""
-	
-	[[params.publications.list]]
-	title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
-	url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
-	tagline = "Airborne Wind Energy Conference 2019"
-	
-	[[params.publications.list]]
-	title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
-	url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
-	tagline = "Airborne Wind Energy Conference 2019"
+		[params.publications]
+		enable = true
+		icon = "fa-newspaper-o"
+		title = "Publications"
+		intro = ""
+		
+		[[params.publications.list]]
+		title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
+		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+		tagline = "Airborne Wind Energy Conference 2019"
+		
+		[[params.publications.list]]
+		title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
+		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+		tagline = "Airborne Wind Energy Conference 2019"
 
-   
+	  
+	  [[params.publications.list]]
+		title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
+		url = "https://doi.org/10.5194/wes-4-563-2019"
+		tagline = "Wind Energy Science, Volume 4, Issue 4, October 2019"
 
-# Publication section
+		[[params.publications.list]]
+		title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
+		url = "https://doi.org/10.1002/we.2343"
+		tagline = "Wiley Wind Energy: Volume22, Issue 8, August 2019"
 
+		[[params.publications.list]]
+		title = "High Altitude LiDAR Measurements of the Wind Conditions for Airborne Wind Energy Systems"
+		url = "http://www.awec2017.com/presentations/markus-sommerfeld"
+		tagline = "Airborne Wind Energy Conference 2017"
 
-  [[params.publications.list]]
-	title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
-	url = "https://doi.org/10.5194/wes-4-563-2019"
-	tagline = "Wind Energy Science, Volume 4, Issue 4, October 2019"
+		[[params.publications.list]]
+		title = "LES generated turbulent inflow fields from mesoscale modeling driven by LiDAR measurements"
+		url = "http://www.awec2017.com/presentations/markus-sommerfeld-2"
+		tagline = "Airborne Wind Energy Conference 2017"
 
-[[params.publications.list]]
-title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
-url = "https://doi.org/10.1002/we.2343"
-tagline = "Wiley Wind Energy: Volume22, Issue 8, August 2019"
-
-[[params.publications.list]]
-title = "High Altitude LiDAR Measurements of the Wind Conditions for Airborne Wind Energy Systems"
-url = "http://www.awec2017.com/presentations/markus-sommerfeld"
-tagline = "Airborne Wind Energy Conference 2017"
-
-[[params.publications.list]]
-title = "LES generated turbulent inflow fields from mesoscale modeling driven by LiDAR measurements"
-url = "http://www.awec2017.com/presentations/markus-sommerfeld-2"
-tagline = "Airborne Wind Energy Conference 2017"
-
-[[params.publications.list]]
-title = "AWESome potential: Airborne wind energy’s opportunities and challenges"
-url = "https://youtu.be/UiriQHZMcs0"
-tagline = "Pacific Institute for Climate Solutions, March 2018"
+		[[params.publications.list]]
+		title = "AWESome potential: Airborne wind energy’s opportunities and challenges"
+		url = "https://youtu.be/UiriQHZMcs0"
+		tagline = "Pacific Institute for Climate Solutions, March 2018"
 
 
 
@@ -319,6 +318,17 @@ tagline = "Pacific Institute for Climate Solutions, March 2018"
     skill = "Sketch & Photoshop"
     level = "60%"
 
+
+# Soft Skills section
+
+[params.skills]
+    enable = true
+    icon = "fa-smile"
+    title = "Skills & Proficiency"
+
+    [[params.skills.list]]
+    skill = "Nice person"
+    level = "90%"
 
 # Footer section
 
