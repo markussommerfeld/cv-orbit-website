@@ -52,7 +52,7 @@ disable404 = true
 		
 		[[params.profile_info.list]]
 		class = "location"
-		icon = "fa-map-marked"
+		icon = "fa-map-marker-alt"
         title = "Victoria, BC Canada"
 		
 		#[[params.contact.list]]
