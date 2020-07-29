@@ -44,13 +44,13 @@ disable404 = true
         class = "website"
         icon = "fa-birthday-cake"
         #url = ""
-        title = "3 February 1987"
+        title = "1987 February 3"
 		
 		[[params.contact.list]]
         class = "website"
         icon = "fa-location-arrow"
         #url = ""
-        title = "Victoria, BC Canada"
+        title = "Victoria, BC Canada <br /> 	"
 		
 		
 
