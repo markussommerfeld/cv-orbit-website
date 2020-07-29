@@ -44,11 +44,11 @@ disable404 = true
         url = "mailto: msommerf@uvic.ca"
         title = "msommerf@uvic.ca"
     
-        [[params.contact.list]]
-        class = "phone"
-        icon = "fa-phone"
-        url = "tel:+1234567890"
-        title = "+1234567890"
+    #    [[params.contact.list]]
+    #    class = "phone"
+    #    icon = "fa-phone"
+    #    url = "tel:+1234567890"
+    #    title = "+1234567890"
     
         [[params.contact.list]]
         class = "website"
