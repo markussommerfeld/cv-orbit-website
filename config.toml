@@ -50,10 +50,9 @@ disable404 = true
         class = "website"
         icon = "fa-location-arrow"
         #url = ""
-        title = "Victoria, BC Canada 
-		"
+        title = "Victoria, BC Canada"
 		
-		
+		<br/><br/>
 
     
         [[params.contact.list]]
