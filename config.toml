@@ -329,6 +329,10 @@ disable404 = true
     [[params.softskills.list]]
     skill = "Nice person"
     level = "90%"
+	
+	[[params.softskills.list]]
+    skill = "Good communicator"
+    level = "90%"
 
 # Footer section
 
