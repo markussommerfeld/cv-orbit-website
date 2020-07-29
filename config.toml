@@ -31,6 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Markus Sommerfeld"
+		birthday = "3 February 1987"
         tagline = "Researcher, Engineer and Father"
         avatar = "profile.png"
     
