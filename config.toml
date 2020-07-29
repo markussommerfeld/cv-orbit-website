@@ -104,26 +104,26 @@ disable404 = true
     # Languages section
     [params.language]
        enable = true
-           title = "Languages"
+       title = "Languages"
     
-        [[params.language.list]]
-        language = "German"
-        level = "5"
+       [[params.language.list]]
+       language = "German"
+       level = "5"
     
-        [[params.language.list]]
-        language = "English"
-        level = "4"
+       [[params.language.list]]
+       language = "English"
+       level = "4"
     
-        [[params.language.list]]
-        language = "Japanese"
-        level = "2"
+       [[params.language.list]]
+       language = "Japanese"
+       level = "2"
     
-        [[params.language.list]]
-        language = "French"
-        level = "2"
+       [[params.language.list]]
+       language = "French"
+       level = "2"
     
     # Interests section
-    [params.interests]
+		[params.interests]
         enable = true
         title = "Interests"
     
@@ -135,7 +135,6 @@ disable404 = true
     
         [[params.interests.list]]
         interest = "Cooking & Eating"
-
 
 # Main body sections
 
