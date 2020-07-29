@@ -99,7 +99,7 @@ disable404 = true
         dates = "2008 - 2014"
     	
         [[params.education.list]]
-        degree = "Abitur"
+        degree = "High School Diploma"
         college = "Paul Schneider Gymnasium, Meisenheim, Germany"
         dates = "1997 - 2007"
     
