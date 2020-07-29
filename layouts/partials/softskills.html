@@ -1,7 +1,7 @@
-            <section class="skills-section section">
-                <h2 class="section-title"><i class="fa {{ .Site.Params.skills.icon }}"></i>{{ i18n "skills" }}</h2>
-                <div class="skillset">
-				{{ range .Site.Params.skills.list }}
+            <section class="softskills-section section">
+                <h2 class="section-title"><i class="fa {{ .Site.Params.softskills.icon }}"></i>{{ i18n "softskills" }}</h2>
+                <div class="softskillset">
+				{{ range .Site.Params.softskills.list }}
                     <div class="item">
                         <h3 class="level-title">{{ .skill }}</h3>
                         <div class="level-bar">
@@ -11,4 +11,4 @@
                     </div><!--//item-->
                 {{ end }}
                 </div>
-            </section><!--//skills-section-->
+            </section><!--//softskills-section-->
