@@ -46,6 +46,7 @@ disable404 = true
         title = "profile_info"		
     
         [[params.profile_info.list]]
+		icon = "fa-birthday-cake"
         interest = "Family"
 		
 		[[params.contact.list]]
