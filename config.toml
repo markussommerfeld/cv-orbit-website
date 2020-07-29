@@ -323,7 +323,7 @@ disable404 = true
 
 [params.softskills]
     enable = true
-    icon = "fa-smile"
+    icon = "fa-rocket"
     title = "Soft Skills"
 
     [[params.softskills.list]]
