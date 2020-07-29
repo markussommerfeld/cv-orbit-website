@@ -321,12 +321,12 @@ disable404 = true
 
 # Soft Skills section
 
-[params.skills]
+[params.softskills]
     enable = true
     icon = "fa-smile"
-    title = "Skills & Proficiency"
+    title = "Soft Skills"
 
-    [[params.skills.list]]
+    [[params.softskills.list]]
     skill = "Nice person"
     level = "90%"
 
