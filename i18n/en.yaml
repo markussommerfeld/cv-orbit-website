@@ -11,6 +11,8 @@
 - id: skills
   translation: Skills & Proficiency
 - id: summary
+  translation: Softskills
+- id: summary
   translation: Career Profile
 - id: publications
   translation: Publications
