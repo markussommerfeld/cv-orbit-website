@@ -363,8 +363,26 @@ disable404 = true
     level = "90%"
 	
 	[[params.softskills.list]]
-    skill = "Good communicator"
+    skill = "Leadership"
+    level = "60%"
+
+	[[params.softskills.list]]
+    skill = "Public Speaking"
     level = "90%"
+
+	[[params.softskills.list]]
+    skill = "Communication"
+    level = "80%"
+	
+	[[params.softskills.list]]
+    skill = "Collaboration"
+    level = "70%"
+
+	[[params.softskills.list]]
+    skill = "Problem-solving"
+    level = "70%"
+	
+	 
 
 # Footer section
 
