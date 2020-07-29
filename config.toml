@@ -102,25 +102,25 @@ disable404 = true
         dates = "1997 - 2007"
     
     # Languages section
-    #[params.language]
-    #   enable = true
-    #       title = "Languages"
-    #
-    #    [[params.language.list]]
-    #    language = "German"
-    #    level = "5"
+    [params.language]
+       enable = true
+           title = "Languages"
     
-    #    [[params.language.list]]
-    #    language = "English"
-    #    level = "4"
+        [[params.language.list]]
+        language = "German"
+        level = "5"
     
-    #    [[params.language.list]]
-    #    language = "Japanese"
-    #    level = "2"
+        [[params.language.list]]
+        language = "English"
+        level = "4"
     
-    #    [[params.language.list]]
-    #    language = "French"
-    #    level = "2"
+        [[params.language.list]]
+        language = "Japanese"
+        level = "2"
+    
+        [[params.language.list]]
+        language = "French"
+        level = "2"
     
     # Interests section
     [params.interests]
@@ -237,6 +237,7 @@ disable404 = true
 	tagline = "Airborne Wind Energy Conference 2019"
 
    
+
 
 
    [[params.publications.list]]
