@@ -359,9 +359,13 @@ disable404 = true
     title = "Soft Skills"
 
     [[params.softskills.list]]
-    skill = "Nice person"
+    skill = "Work Ethic"
     level = "90%"
 	
+	[[params.softskills.list]]
+    skill = "Time Management"
+    level = "90%"
+		
 	[[params.softskills.list]]
     skill = "Leadership"
     level = "60%"
@@ -375,7 +379,7 @@ disable404 = true
     level = "80%"
 	
 	[[params.softskills.list]]
-    skill = "Collaboration"
+    skill = "Teamwork"
     level = "70%"
 
 	[[params.softskills.list]]
