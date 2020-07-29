@@ -33,6 +33,7 @@ disable404 = true
         name = "Markus Sommerfeld"
         tagline = "Researcher, Engineer and Father"
 		birthday = "3 February 1987"
+		location = "Victoria, BC Canada"
         avatar = "profile.png"
     
     # Contact section
