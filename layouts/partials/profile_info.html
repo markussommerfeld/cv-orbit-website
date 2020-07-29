@@ -1,0 +1,8 @@
+            <div class="profile_info-container container-block">
+                <h2 class="container-block-title">{{ i18n "profile_info" }}</h2>
+                <ul class="list-unstyled profile_info-list">
+				{{ range .Site.Params.profile_info.list }}
+                    <li>{{ .interest }}</li>
+				{{ end }}
+                </ul>
+            </div><!--//profile_info-->

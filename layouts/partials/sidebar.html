@@ -5,6 +5,8 @@
 		{{ if .IsTranslated }}
 		{{ partial "translate.html" . }}
 		{{ end }}
+				
+		{{ partial "profile_info.html" . }}
 
 		{{ if .Site.Params.contact.enable }}
 		{{ partial "contact.html" . }}

@@ -40,6 +40,14 @@ disable404 = true
     [params.contact]
         enable = true
 		
+		# profile additional section
+		[params.profile_info]
+        enable = true
+        title = "profile_info"		
+    
+        [[params.profile_info.list]]
+        interest = "Family"
+		
 		[[params.contact.list]]
         class = "website"
         icon = "fa-birthday-cake"
@@ -48,11 +56,11 @@ disable404 = true
 		
 		[[params.contact.list]]
         class = "website"
-        icon = "fa-location-arrow"
+        icon = "fa-map-marked-alt"
         #url = ""
         title = "Victoria, BC Canada"
 		
-		<br/><br/>
+		
 
     
         [[params.contact.list]]
