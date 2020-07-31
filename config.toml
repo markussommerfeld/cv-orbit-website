@@ -33,7 +33,7 @@ disable404 = true
         name = "Markus Sommerfeld"
         tagline = "Researcher, Engineer and Father"
 		#birthday = "3 February 1987"
-		#location = "Victoria, BC Canada"
+		#location = "Victoria, BC, Canada"
         avatar = "profile.png"
     
     # Contact section
@@ -53,7 +53,7 @@ disable404 = true
 		[[params.profile_info.list]]
 		class = "location"
 		icon = "fa-map-marker"
-        title = "Victoria, BC Canada"
+        title = "  Victoria, BC, Canada"
 		
 		#[[params.contact.list]]
         #class = "website"
@@ -92,7 +92,7 @@ disable404 = true
         class = "linkedin"
         icon = "fa-linkedin"
         url = "https://www.linkedin.com/in/markus-sommerfeld/"
-        title = "markus-sommerfeld/"
+        title = "markus-sommerfeld"
     
         [[params.contact.list]]
         class = "github"
@@ -120,7 +120,7 @@ disable404 = true
     
     	[[params.education.list]]
         degree = "PhD in Mechanical Engineering"
-        college = "University of Victoria, BC Canada"
+        college = "University of Victoria, BC, Canada"
         dates = "2015 - 2020"
     	
         [[params.education.list]]
@@ -245,8 +245,8 @@ disable404 = true
 	    tagline = "Event organizer"
 	
 	    [[params.projects.list]]
-	    title = "Orbit"
-	    url = "https://github.com/aerohub/hugo-orbit-theme"
+	    title = "Student Research Project: "
+	    url = "Design Wind tunnel testing"
 	    tagline = "Hugo Resume/CV Theme for Developers."
 	
 	    [[params.projects.list]]
