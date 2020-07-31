@@ -53,7 +53,7 @@ disable404 = true
 		[[params.profile_info.list]]
 		class = "location"
 		icon = "fa-map-marker"
-        title = " <br/> Victoria, BC, Canada"
+        title = " Victoria, BC, Canada"
 		
 		#[[params.contact.list]]
         #class = "website"
@@ -202,7 +202,7 @@ disable404 = true
 	    position = "Research Assistant"
 	    dates = "2015"
 	    company = "Fraunhofer IWES, Bremerhaven Germany"
-	    details = "I continued working on the 'BladeMaker' project, after finishing my master thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistantly high quality."
+	    details = "I continued working on the 'BladeMaker' project, after finishing my diploma thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistantly high quality."
 	
 	   [[params.jobs.list]]
 	    position = "Graduate Intern"
@@ -216,11 +216,11 @@ disable404 = true
 	    company = "TÜV Rheinland, Yokohama Japan"
 	    details = "Together with a team of Japanese and international experts I tested and certified photovoltaic modules at the Solar Energy Assessment Center of TÜV Rheinland Japan. We consulted local customers durng the planning phase of large scale solar power plants. I was responsible for calculatng the annual energy yield and independently developed an uncertainty estimation to improve revenue predictions."
 	
-	    [[params.jobs.list]]
-	    position = " Grad student representative"
-	    dates = "2016 - 2017"
-	    company = "University of  Victoria, Canada"
-	    details = "**Describe your role here** Organizational and finance committee experience"
+	    #[[params.jobs.list]]
+	    #position = " Grad student representative"
+	    #dates = "2016 - 2017"
+	    #company = "University of  Victoria, Canada"
+	    #details = "**Describe your role here** Organizational and finance committee experience"
 	
 	# Projects section
 	[params.projects]
@@ -230,7 +230,17 @@ disable404 = true
 	    intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
 	
 	    [[params.projects.list]]
-	    title = "Master Thesis"
+	    title = "New Leaf: Engineering Projects"
+	    url = "http://www.newleaf.co/"
+	    tagline = "I consulted New Leaf Management Ltd. Vancouver in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
+
+	    [[params.projects.list]]
+	    title = "Ocean Rodeo: Engineering Projects"
+	    url = "https://oceanrodeo.com/"
+	    tagline = "I consulted Ocean Rodeo, Victoria in early concept development of a small-scale Airborne Wind Energy System."
+
+	    [[params.projects.list]]
+	    title = "Diploma Thesis"
 	    url = ""
 	    tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology: Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
 	
