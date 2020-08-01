@@ -196,7 +196,7 @@ disable404 = true
 	    position = "PhD"
 	    dates = "2015 - 2020"
 	    company = "University of Victoria, BC Canada"
-	    details = "In my PhD research at the University of Victoria I determined the wind energy potential of tall wind turbines and innovative, new airborne wind energy systems. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
+	    details = "In my PhD research at the University of Victoria I determined the wind energy potential of innovative, new airborne wind energy systems and tall wind turbines. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
 	
 	    [[params.jobs.list]]
 	    position = "Research Assistant"
@@ -227,8 +227,9 @@ disable404 = true
 	    enable = true
 	    icon = "fa-archive"
 	    title = "Projects"
-	    intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
-	
+	    intro = "" #**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus
+		# This section lists up some of the lates projects I worked on.
+		
 	    [[params.projects.list]]
 	    title = "New Leaf: Engineering Projects"
 	    url = "http://www.newleaf.co/"
@@ -241,12 +242,12 @@ disable404 = true
 
 	    [[params.projects.list]]
 	    title = "Diploma Thesis"
-	    url = ""
-	    tagline = "Diploma thesis at the Fraunhofer Institute for Wind Energy & Energy System Technology: Design of a Roving impregnation device and determination of optimal process parameters for automated manufacturing (grade: 1.0)"
+	    url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
+	    tagline = "The focus of my research at the Fraunhofer Institute for Wind Energy & Energy System Technology was on the development, design and initial operation of a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps. (grade: 1.0)"
 	
 	    [[params.projects.list]]
 	    title = "Teaching Assistant"
-	    url = ""
+	    url = "Through my studies I worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Teaching and organizing tutorials and laboratories from engineering mechanics, to fluid mechanics to wind energy improved my public speaking and knowledge transfer ability. Work at the Institute for Composite Materials and supervising cap stone design projects strengthened my project management skills and mechanical design capabilities. "
 	    tagline = "Wind Energy, 2x Fluids lab, design cap stone project."
 	
 	    [[params.projects.list]]
@@ -259,10 +260,10 @@ disable404 = true
 	    url = "Design Wind tunnel testing"
 	    tagline = "Hugo Resume/CV Theme for Developers."
 	
-	    [[params.projects.list]]
-	    title = "Me"
-	    url = "https://github.com/aerohub/hugo-me-theme"
-	    tagline = "A simple responsive Hugo theme for personal site."
+	    #[[params.projects.list]]
+	    #title = "Me"
+	    #url = "https://github.com/aerohub/hugo-me-theme"
+	    #tagline = "A simple responsive Hugo theme for personal site."
 	 
 	# Publication section
 		[params.publications]
