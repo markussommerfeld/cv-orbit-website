@@ -247,7 +247,7 @@ disable404 = true
 	
 	    [[params.projects.list]]
 	    title = "Teaching Assistant"
-	    url = "Through my studies I worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Teaching and organizing tutorials and laboratories from engineering mechanics, to fluid mechanics to wind energy improved my public speaking and knowledge transfer ability. Work at the Institute for Composite Materials and supervising cap stone design projects strengthened my project management skills and mechanical design capabilities."
+	    url = "Through my studies I worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria." # Teaching and organizing tutorials and laboratories from engineering mechanics, to fluid mechanics to wind energy improved my public speaking and knowledge transfer ability. Work at the Institute for Composite Materials and supervising cap stone design projects strengthened my project management skills and mechanical design capabilities.
 	    tagline = "Wind Energy, 2x Fluids lab, design cap stone project."
 	
 	    [[params.projects.list]]
