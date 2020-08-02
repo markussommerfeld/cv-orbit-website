@@ -263,10 +263,10 @@ disable404 = true
 	    url = "https://www.mv.uni-kl.de/en/sam/"
 	    tagline = "I designed, simulated aerodynamic properties and manufactured a scaled model of an Audi R8 for wind tunnel testing. I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation. (grade 1.0) "
 	
-	    #[[params.projects.list]]
-	    #title = "Student Research Project:"
-	    #url = "https://www.mv.uni-kl.de/en/imad/"
-	    #tagline = "I investigated impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a commercial CFD software. I develop a deeper understanding of fluid- and thermodynamic mechanisms as well as the manufacturing process.  (grade 1.0)"
+	    [[params.projects.list]]
+	    title = "Student Research Project:"
+	    url = "https://www.mv.uni-kl.de/en/imad/"
+	    tagline = "I investigated impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a commercial CFD software. I develop a deeper understanding of fluid- and thermodynamic mechanisms as well as the manufacturing process.  (grade 1.0)"
 	 
 	# Publication section
 		[params.publications]
