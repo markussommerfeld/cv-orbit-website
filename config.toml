@@ -258,7 +258,7 @@ disable404 = true
 	    [[params.projects.list]]
 	    title = "Student Research Project: "
 	    url = "Design Wind tunnel testing"
-	    tagline = "Hugo Resume/CV Theme for Developers."
+	    tagline = "Blank"
 	
 	    #[[params.projects.list]]
 	    #title = "Me"
