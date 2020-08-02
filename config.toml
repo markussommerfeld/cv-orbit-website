@@ -167,8 +167,11 @@ disable404 = true
     
         [[params.interests.list]]
         interest = "Technology"
-    
+		
         [[params.interests.list]]
+        interest = "Entrepreneurship"
+		
+	   [[params.interests.list]]
         interest = "Cooking & Eating"
 
 # Main body sections
@@ -247,23 +250,23 @@ disable404 = true
 	
 	    [[params.projects.list]]
 	    title = "Teaching Assistant"
-	    url = ""
+	    url = "https://www.uni-kl.de/en/"
 	    tagline = "Through my studies I worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Teaching and organizing tutorials and laboratories from engineering mechanics, to fluid mechanics to wind energy improved my public speaking and knowledge transfer ability. Work at the Institute for Composite Materials and supervising capstone design projects strengthened my project management skills and mechanical design capabilities."
 	
 	    [[params.projects.list]]
 	    title = "Entrpreneurship Playground"
-	    url = "https://github.com/aerohub/hugo-identity-theme"
-	    tagline = "Event organizer"
+	    url = "https://www.uvic.ca/innovation/"
+	    tagline = "Together with the Coast Capital Innovation Centre and fellow students, we organized several events to promote student entrepreneurship at the University of Victoria."
 	
 	    [[params.projects.list]]
-	    title = "Student Research Project: "
-	    url = "Design Wind tunnel testing"
-	    tagline = "Blank"
+	    title = "Student Research Project"
+	    url = "https://www.mv.uni-kl.de/en/sam/"
+	    tagline = "I designed, simulated aerodynamic properties and manufactured a scaled model of an Audi R8 for wind tunnel testing. I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation. (grade 1.0) "
 	
 	    #[[params.projects.list]]
-	    #title = "Me"
-	    #url = "https://github.com/aerohub/hugo-me-theme"
-	    #tagline = "A simple responsive Hugo theme for personal site."
+	    #title = "Student Research Project:"
+	    #url = "https://www.mv.uni-kl.de/en/imad/"
+	    #tagline = "I investigated impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a commercial CFD software. I develop a deeper understanding of fluid- and thermodynamic mechanisms as well as the manufacturing process.  (grade 1.0)"
 	 
 	# Publication section
 		[params.publications]
