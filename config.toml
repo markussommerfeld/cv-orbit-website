@@ -355,6 +355,11 @@ disable404 = true
 	[[params.skills.list]]
     skill = "Certification"
     level = "70%"
+	
+	[[params.skills.list]]
+    skill = "Data Analysis"
+    level = "90%"
+
 		
     [[params.skills.list]]
     skill = "Python & Matlab"
@@ -371,6 +376,7 @@ disable404 = true
     [[params.skills.list]]
     skill = "Mesoscale weather modeling: WRF"
     level = "70%"
+
 
 
 
