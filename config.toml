@@ -341,11 +341,27 @@ disable404 = true
     title = "Skills & Proficiency"
 
     [[params.skills.list]]
+    skill = "Renewable Energy"
+    level = "100%"
+	
+	[[params.skills.list]]
+    skill = "Design"
+    level = "80%"
+
+    [[params.skills.list]]
+    skill = "Aerospace"
+    level = "80%"
+	
+	[[params.skills.list]]
+    skill = "Certification"
+    level = "70%"
+		
+    [[params.skills.list]]
     skill = "Python & Matlab"
     level = "90%"
             
     [[params.skills.list]]
-    skill = "CAD software: Catia, Solid Edge "
+    skill = "CAD software: Catia, Solid Edge"
     level = "70%"
 
     [[params.skills.list]]
@@ -354,15 +370,9 @@ disable404 = true
 
     [[params.skills.list]]
     skill = "Mesoscale weather modeling: WRF"
-    level = "80%"
+    level = "70%"
 
-    [[params.skills.list]]
-    skill = "Ruby on Rails"
-    level = "75%"
 
-    [[params.skills.list]]
-    skill = "Sketch & Photoshop"
-    level = "60%"
 
 
 # Soft Skills section
@@ -372,18 +382,26 @@ disable404 = true
     icon = "fa-commenting"
     title = "Soft Skills"
 
-    [[params.softskills.list]]
-    skill = "Work Ethic"
-    level = "90%"
-	
-	[[params.softskills.list]]
-    skill = "Time Management"
-    level = "90%"
+	[params.softskills.list]]
+    skill = "Self-Management"
+    level = "100%"
 		
 	[[params.softskills.list]]
-    skill = "Leadership"
-    level = "60%"
-
+    skill = "Critical Thinking"
+    level = "100%"
+	
+	[[params.softskills.list]]
+    skill = "Creativity"
+    level = "100%"
+	
+	[[params.softskills.list]]
+    skill = "Project Management"
+    level = "80%"
+	
+	[[params.softskills.list]]
+    skill = "Problem-solving"
+    level = "90%"
+	
 	[[params.softskills.list]]
     skill = "Public Speaking"
     level = "90%"
@@ -393,13 +411,9 @@ disable404 = true
     level = "80%"
 	
 	[[params.softskills.list]]
-    skill = "Teamwork"
-    level = "70%"
+    skill = "Adaptability"
+    level = "100%"
 
-	[[params.softskills.list]]
-    skill = "Problem-solving"
-    level = "70%"
-	
 	 
 
 # Footer section
