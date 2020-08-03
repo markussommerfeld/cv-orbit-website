@@ -85,7 +85,7 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "https://markussommerfeld-academic.netlify.com/"
+        url = "" #https://markussommerfeld-academic.netlify.com/
         title = "markussommerfeld-academic.com"
     
         [[params.contact.list]]
