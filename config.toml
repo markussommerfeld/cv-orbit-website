@@ -181,7 +181,7 @@ disable404 = true
 		enable = true
 		icon = "fa-user"
 		title = "Career Profile"
-		summary = "Researcher, Engineer and Futurist driven by curiosity motivated by improving quality of life for everybody and exited about technology. <br/> As a researcher I aim to reduce the impact of climate change through offering dependable, sustainable energy at a lower cost. As an engineer I took responsibility organizing and executing certification test as well as independently solving interesting design challenges to quickly provide outstanding results. As a futurist I am hopeful that we will be able to overcome our challenges by providing better, sustainable services while improving the quality of life for everyone."    
+		summary = "Researcher, Engineer and Futurist driven by curiosity, motivated by improving quality of life for everybody, and exited about technology. <br/> As a researcher I aim to reduce the impact of climate change through offering dependable, sustainable energy at a lower cost. As an engineer I took responsibility organizing and executing certification test as well as independently solving interesting design challenges to quickly provide outstanding results. As a futurist I am hopeful that we will be able to overcome our challenges by providing better, sustainable services while improving the quality of life for everyone."    
 
 
 
@@ -195,26 +195,26 @@ disable404 = true
 	    [[params.jobs.list]]
 	    position = "PhD"
 	    dates = "2015 - 2020"
-	    company = "University of Victoria, BC Canada"
+	    company = "University of Victoria, BC, Canada"
 	    details = "In my PhD research at the University of Victoria I determined the wind energy potential of tall wind turbines and innovative, new airborne wind energy systems. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
 	
 	    [[params.jobs.list]]
 	    position = "Research Assistant"
 	    dates = "2015"
-	    company = "Fraunhofer IWES, Bremerhaven Germany"
-	    details = "I continued working on the 'BladeMaker' project, after finishing my diploma thesis at IWES. My research contributed to the development of an automated wind turbine blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistantly high quality."
+	    company = "Fraunhofer IWES, Bremerhaven, Germany"
+	    details = "After finishing my diploma thesis at Fraunhofer IWES, I continued working on the 'BladeMaker' project. My work on the automated laying head contributed to the development of an automated rotor blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistently high quality."
 	
 	   [[params.jobs.list]]
 	    position = "Graduate Intern"
 	    dates = "2012"
-	    company = "Airbus Operations, Hamburg Germany"
-	    details = "As an intern at the Structures Test center of Airbus I was responsible for planning, scheduling, executing and analyzing certification experiments. I carried out various component tests on CFRP A350 fuselage parts and repair patches. Additionally, I developed and designed the A400M roller system test rig."
+	    company = "Airbus Operations, Hamburg, Germany"
+	    details = "As an intern at the Structures Test center of Airbus I was responsible for planning, scheduling, executing and analyzing certification experiments. I carried out various component tests on CFRP A350 fuselage parts and lighting strike repair patches. I designed, oversaw the manufacturing and performed initial operation of the A400M roller system test rig."
 	
 	  [[params.jobs.list]]
 	    position = "Graduate Intern"
 	    dates = "2013 - 2014"
-	    company = "TÜV Rheinland, Yokohama Japan"
-	    details = "Together with a team of Japanese and international experts I tested and certified photovoltaic modules at the Solar Energy Assessment Center of TÜV Rheinland Japan. We consulted local customers durng the planning phase of large scale solar power plants. I was responsible for calculatng the annual energy yield and independently developed an uncertainty estimation to improve revenue predictions."
+	    company = "TÜV Rheinland, Yokohama, Japan"
+	    details = "Together with a team of Japanese and international experts, I certified photovoltaic modules to meet international standards at the Solar Energy Assessment Center of TÜV Rheinland. These included impact and humidity freeze tests among others. Furthermore, we consulted local customers during the planning phase of large scale solar power plants. My responsibilities include calculating the annual energy yield where I independently developed an uncertainty estimation to improve revenue predictions."
 	
 	    #[[params.jobs.list]]
 	    #position = " Grad student representative"
