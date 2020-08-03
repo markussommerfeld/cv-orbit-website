@@ -382,7 +382,7 @@ disable404 = true
     icon = "fa-commenting"
     title = "Soft Skills"
 
-	[params.softskills.list]]
+	[[params.softskills.list]]
     skill = "Self-Management"
     level = "100%"
 		
