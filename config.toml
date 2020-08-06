@@ -250,8 +250,8 @@ disable404 = true
 	
 	
 	    [[params.projects.list]]
-	    title = "Entrpreneurship Playground"
-	    url = "https://www.uvic.ca/innovation/"
+	    title = "Grad Student Representative"
+	    url = "https://gss.uvic.ca/"
 	    tagline = "During the first three years of my Phd, I held the office of graduate student representative for the mechanical engineering department where I joined the finance committee. As part of my responsibilities, I oversaw the annual budget and planned, together with staff and managers, the renovation of the university’s “Grad House” restaurant."
 	 
 		[[params.projects.list]]
