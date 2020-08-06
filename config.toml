@@ -199,7 +199,7 @@ disable404 = true
 	    position = "PhD"
 	    dates = "2015 - 2020"
 	    company = "University of Victoria, BC, Canada"
-	    details = "In my PhD research at the University of Victoria I determined the wind energy potential of tall wind turbines and innovative, new airborne wind energy systems. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
+	    details = "In my PhD research at the University of Victoria I determined the wind energy potential of innovative, new airborne wind energy systems and tall wind turbines. Through collaborations with international research institutes, universities and companies I developed competence in LiDAR technologies, wind modeling, optimization and data analysis."
 	
 	    [[params.jobs.list]]
 	    position = "Research Assistant"
