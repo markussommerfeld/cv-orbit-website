@@ -199,25 +199,25 @@ disable404 = true
 	    position = "PhD"
 	    dates = "2015 - 2020"
 	    company = "University of Victoria, BC, Canada"
-	    details = "I determined the wind energy potential of innovative, new airborne wind energy systems and tall wind turbines. Through collaborations with international research institutes, universities and companies I evaluated LiDAR measurements, simulated wind weather models, optimized trajectories, analyzed results. I published in high-impact journal and presented at several conferences and seminars."
+	    details = "Determined the wind energy potential of innovative, new airborne wind energy systems and tall wind turbines. Collaborated with international research institutes, universities and companies. Evaluated LiDAR measurements, simulated wind weather models, optimized trajectories, analyzed results. Published in high-impact journal and presented at several conferences and seminars."
 	
 	    [[params.jobs.list]]
 	    position = "Research Assistant"
 	    dates = "2015"
 	    company = "Fraunhofer IWES, Bremerhaven, Germany"
-	    details = "After finishing my diploma thesis, I continued working on the 'BladeMaker' project. My work on the automated laying head contributed to the development of an automated rotor blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistently high quality."
+	    details = "Continued working on the 'BladeMaker' project after finishing my diploma thesis. My work on the automated laying head contributed to the development of an automated rotor blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistently high quality."
 	
 	   [[params.jobs.list]]
 	    position = "Graduate Intern"
 	    dates = "2012"
 	    company = "Airbus Operations, Hamburg, Germany"
-	    details = "As an intern at the Structures Test center I was responsible for planning, scheduling, executing and analyzing certification experiments. I carried out various component tests on CFRP A350 fuselage parts and lighting strike repair patches. I designed, oversaw the manufacturing and performed initial operation of the A400M roller system test rig."
+	    details = "Planned, scheduled, executed and analyzed certification experiments as an intern at the Structures Test center. Carried out various component tests on CFRP A350 fuselage parts and lighting strike repair patches. Designed, oversaw the manufacturing and performed initial operation of the A400M roller system test rig."
 	
 	  [[params.jobs.list]]
 	    position = "Graduate Intern"
 	    dates = "2013 - 2014"
 	    company = "TÜV Rheinland, Yokohama, Japan"
-	    details = "I certified photovoltaic modules to meet international standards at the Solar Energy Assessment Center. These included impact and humidity freeze tests among others. Furthermore, we consulted local customers during the planning phase of large scale solar power plants. My responsibilities include calculating the annual energy yield where I independently developed an uncertainty estimation to improve revenue predictions."
+	    details = "Certified photovoltaic modules to meet international standards at the Solar Energy Assessment Center. These included impact and humidity freeze tests among others. Consulted local customers during the planning phase of large scale solar power plants by calculating the annual energy yield. Independently developed an uncertainty estimation to improve revenue predictions."
 	
 	    #[[params.jobs.list]]
 	    #position = " Grad student representative"
@@ -236,43 +236,45 @@ disable404 = true
 	    [[params.projects.list]]
 	    title = "New Leaf: Engineering Projects"
 	    url = "http://www.newleaf.co/"
-	    tagline = "I consulted New Leaf Management Ltd. Vancouver in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
+	    tagline = "Consulted New Leaf Management Ltd. Vancouver in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
 
 	    [[params.projects.list]]
 	    title = "Ocean Rodeo: Engineering Projects"
 	    url = "https://oceanrodeo.com/"
-	    tagline = "I consulted Ocean Rodeo, Victoria in early concept development of a small-scale Airborne Wind Energy System."
+	    tagline = "Consulted Ocean Rodeo, Victoria in early concept development of a small-scale Airborne Wind Energy System."
 
 	    [[params.projects.list]]
 	    title = "Teaching Assistant"
 	    url = "https://www.uni-kl.de/en/"
-	    tagline = "Through my studies I worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Teaching and organizing tutorials and laboratories from engineering mechanics, to fluid mechanics to wind energy improved my public speaking and knowledge transfer ability. Work at the Institute for Composite Materials and supervising capstone design projects strengthened my project management skills and mechanical design capabilities."
+	    tagline = "Worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Taught and organized engineering mechanics, fluid mechanics and wind energy tutorials and laboratories.
+		Worked at the Institute for Composite Materials and supervised capstone design projects."
 	
 	
 	    [[params.projects.list]]
 	    title = "Grad Student Representative"
 	    url = "https://gss.uvic.ca/"
-	    tagline = "During the first three years of my Phd, I held the office of graduate student representative for the mechanical engineering department where I joined the finance committee. As part of my responsibilities, I oversaw the annual budget and planned, together with staff and managers, the renovation of the university’s “Grad House” restaurant."
+	    tagline = "Held the office of graduate student representative and was part of  the finance committee during the first three years of my Phd research. Oversaw the annual budget and planned, together with staff and managers, the renovation of the university’s “Grad House” restaurant."
 	 
 		[[params.projects.list]]
 	    title = "Entrpreneurship Playground"
 	    url = "https://www.uvic.ca/innovation/"
-	    tagline = "Together with the Coast Capital Innovation Centre and fellow students, we organized several events to promote student entrepreneurship at the University of Victoria."
+	    tagline = "Organized several events to promote student entrepreneurship together with the Coast Capital Innovation Centre at the University of Victoria."
 	    
 		[[params.projects.list]]
 	    title = "Diploma Thesis"
 	    url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
-	    tagline = "The focus of my research at the Fraunhofer Institute for Wind Energy & Energy System Technology was on the development, design and initial operation of a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps. (grade: 1.0)"
+	    tagline = "Development, design and initial operation of a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps. (grade: 1.0)"
 
 	    [[params.projects.list]]
 	    title = "Student Research Project"
 	    url = "https://www.mv.uni-kl.de/en/sam/"
-	    tagline = "I designed, simulated aerodynamic properties and manufactured a scaled model of an Audi R8 for wind tunnel testing. I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation. (grade 1.0) "
+	    tagline = "Designed, simulated aerodynamic properties and manufactured a scaled model of an Audi R8 for wind tunnel testing (grade 1.0) "
+		#I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation.
 	
 	    [[params.projects.list]]
 	    title = "Student Research Project:"
 	    url = "https://www.mv.uni-kl.de/en/imad/"
-	    tagline = "I investigated impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a commercial CFD software. I develop a deeper understanding of fluid- and thermodynamic mechanisms as well as the manufacturing process.  (grade 1.0)"
+	    tagline = "Investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into commercial CFD software (grade 1.0)"
 	 
 	# Publication section
 		[params.publications]
