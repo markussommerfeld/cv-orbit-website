@@ -217,7 +217,7 @@ disable404 = true
 	    position = "Graduate Intern"
 	    dates = "2013 - 2014"
 	    company = "TÜV Rheinland, Yokohama, Japan"
-	    details = "Together with a team of Japanese and international experts, I certified photovoltaic modules to meet international standards at the Solar Energy Assessment Center. These included impact and humidity freeze tests among others. Furthermore, we consulted local customers during the planning phase of large scale solar power plants. My responsibilities include calculating the annual energy yield where I independently developed an uncertainty estimation to improve revenue predictions."
+	    details = "I certified photovoltaic modules to meet international standards at the Solar Energy Assessment Center. These included impact and humidity freeze tests among others. Furthermore, we consulted local customers during the planning phase of large scale solar power plants. My responsibilities include calculating the annual energy yield where I independently developed an uncertainty estimation to improve revenue predictions."
 	
 	    #[[params.jobs.list]]
 	    #position = " Grad student representative"
