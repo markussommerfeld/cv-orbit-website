@@ -246,8 +246,7 @@ disable404 = true
 	    [[params.projects.list]]
 	    title = "Teaching Assistant"
 	    url = "https://www.uni-kl.de/en/"
-	    tagline = "Worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Taught and organized engineering mechanics, fluid mechanics and wind energy tutorials and laboratories.
-		Worked at the Institute for Composite Materials and supervised capstone design projects."
+	    tagline = "Worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Taught and organized engineering mechanics, fluid mechanics and wind energy tutorials and laboratories. Worked at the Institute for Composite Materials and supervised capstone design projects."
 	
 	
 	    [[params.projects.list]]
