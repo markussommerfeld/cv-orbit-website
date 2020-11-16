@@ -227,7 +227,7 @@ disable404 = true
 	    details = "Planned, scheduled, executed and analyzed certification experiments as an intern at the Structures Test center. Carried out various component tests on CFRP A350 fuselage parts and lighting strike repair patches. Designed, oversaw the manufacturing and performed initial operation of the A400M roller system test rig."
 		
 	    #[[params.jobs.list]]
-	    #position = " Grad student representative"
+	    #position = "Grad student representative"
 	    #dates = "2016 - 2017"
 	    #company = "University of  Victoria, Canada"
 	    #details = "**Describe your role here** Organizational and finance committee experience"
