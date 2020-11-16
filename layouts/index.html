@@ -23,16 +23,16 @@
     {{ partial "projects.html" . }}
     {{ end }}
 	
+	{{ if .Site.Params.publications.enable }}
+    {{ partial "publications.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.skills.enable }}
 	{{ partial "skills.html" . }}
     {{ end }}
 	
     {{ if .Site.Params.softskills.enable }}
 	{{ partial "softskills.html" . }}
-    {{ end }}
-	
-	{{ if .Site.Params.publications.enable }}
-    {{ partial "publications.html" . }}
     {{ end }}
 
 	</div><!--//main-body-->
