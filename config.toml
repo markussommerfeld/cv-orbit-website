@@ -210,7 +210,7 @@ disable404 = true
 	    position = "Research Assistant: Wind Turbine Blade Manufacturing"
 	    dates = "2015"
 	    company = "Fraunhofer IWES, Bremerhaven, Germany"
-	    details = "Continued working on the 'BladeMaker' project after finishing my diploma thesis. My work on the automated laying head contributed to the development of an automated rotor blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistently high quality."
+	    details = "Continued working on the 'BladeMaker' project after finishing my diploma thesis. My design work and prototyping of an automated laying head contributed to the development of an automated rotor blade manufacturing process which reduces the manufacturing costs by over 10% while maintaining high production quality."
 	
 	  [[params.jobs.list]]
 	    position = "Graduate Intern: Test Engineer"
