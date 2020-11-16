@@ -288,6 +288,16 @@ disable404 = true
 		intro = ""
 		
 		[[params.publications.list]]
+		title = "Ground-generation airborne wind energy design space exploration"
+		url = "https://doi.org/placeholder"
+		tagline = "Wind Energy Science, Submitted"
+		
+		[[params.publications.list]]
+		title = "Offshore and onshore ground-generation airborne wind energy power curve characterization"
+		url = "https://doi.org/placeholder"
+		tagline = "Wind Energy Science, Submitted"
+		
+		[[params.publications.list]]
 		title = "Airborne wind energy trajectory optimization using realistic wind speed profiles"
 		url = "https://doi.org/10.5281/zenodo.3357152"
 		tagline = "Wind Energy Science Conference 2019"
