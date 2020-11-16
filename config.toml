@@ -161,12 +161,11 @@ disable404 = true
     
         [[params.interests.list]]
         interest = "Family"
-		icon = "fa-map-marker"
-
+		icon = "fa-house"
 
         [[params.interests.list]]
         interest = "Crossfit"
-		icon = "fa-map-marker"
+		icon = "fa-dumbbell"
 
     
         [[params.interests.list]]
