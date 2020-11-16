@@ -215,14 +215,14 @@ disable404 = true
 	  [[params.jobs.list]]
 	    position = "Graduate Intern: Test Engineer"
 	    dates = "2013 - 2014"
-	    company = "TÜV Rheinland, Yokohama, Japan"
-	    details = "Tested photovoltaic modules to meet international standards at the Solar Energy Assessment Center. These included impact and humidity freeze tests among others. Consulted local customers during the planning phase of large scale solar power plants by calculating the annual energy yield. Independently developed an uncertainty estimation to improve revenue predictions."
+	    company = "TÜV Rheinland, Solar Energy Assessment Center, Yokohama, Japan"
+	    details = "Independently performed and evaluated certification tests of photovoltaic modules, such as hail impact tests or humidity freeze tests, according to international standards. Developed and implemented module breakage test rig. Assisted in on-site inspections and safety assessments. Calculated annual energy yield predictions for local, large-scale solar power plants and developed an uncertainty estimation to improve revenue predictions for local customers."
 
 	   [[params.jobs.list]]
 	    position = "Graduate Intern: Test and Design Engineer"
 	    dates = "2012"
-	    company = "Airbus Operations, Hamburg, Germany"
-	    details = "Planned, scheduled, executed and analyzed certification experiments as an intern at the Structures Test center. Carried out various component tests on CFRP A350 fuselage parts and lighting strike repair patches. Designed, oversaw the manufacturing and performed initial operation of the A400M roller system test rig."
+	    company = "Airbus Operations, Structures Test center, Hamburg, Germany"
+	    details = "Independently planned, executed and analyzed component tests on CFRP A350 fuselage parts and lighting strike repair patches. Supported experienced project engineers with scheduling tests, progress tracking and data acquisition. Collaborated on the design, oversaw the manufacturing and commissioned the A400M roller system test rig."
 		
 	    #[[params.jobs.list]]
 	    #position = "Grad student representative"
