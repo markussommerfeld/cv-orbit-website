@@ -279,90 +279,6 @@ disable404 = true
 	    title = "Student Research Project:"
 	    url = "https://www.mv.uni-kl.de/en/imad/"
 	    tagline = "Investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into commercial CFD software (grade 1.0)"
-	 
-	# Publication section
-		[params.publications]
-		enable = true
-		icon = "fa-newspaper-o"
-		title = "Publications"
-		intro = ""
-		
-		[[params.publications.list]]
-		title = "Ground-generation airborne wind energy design space exploration"
-		url = "https://doi.org/placeholder"
-		tagline = "Wind Energy Science, Submitted"
-		
-		[[params.publications.list]]
-		title = "Offshore and onshore ground-generation airborne wind energy power curve characterization"
-		url = "https://doi.org/placeholder"
-		tagline = "Wind Energy Science, Submitted"
-		
-		[[params.publications.list]]
-		title = "Airborne wind energy trajectory optimization using realistic wind speed profiles"
-		url = "https://doi.org/10.5281/zenodo.3357152"
-		tagline = "Wind Energy Science Conference 2019"
-		
-		[[params.publications.list]]
-		title = "Mesoscale model based techniques for LiDAR wind speed measurement gap-filling"
-		url = "https://doi.org/10.5281/zenodo.3357147"
-		tagline = "Wind Energy Science Conference 2019"
-
-		[[params.publications.list]]
-		title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
-		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
-		tagline = "Airborne Wind Energy Conference 2019"
-		
-		[[params.publications.list]]
-		title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
-		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
-		tagline = "Airborne Wind Energy Conference 2019"
-	  
-		[[params.publications.list]]
-		title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
-		url = "https://doi.org/10.5194/wes-4-563-2019"
-		tagline = "Wind Energy Science, Volume 4, Issue 4, October 2019"
-
-		[[params.publications.list]]
-		title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
-		url = "https://doi.org/10.1002/we.2343"
-		tagline = "Wiley Wind Energy: Volume22, Issue 8, August 2019"
-
-		[[params.publications.list]]
-		title = "High Altitude LiDAR Measurements of the Wind Conditions for Airborne Wind Energy Systems"
-		url = "http://www.awec2017.com/presentations/markus-sommerfeld"
-		tagline = "Airborne Wind Energy Conference 2017"
-
-		[[params.publications.list]]
-		title = "LES generated turbulent inflow fields from mesoscale modeling driven by LiDAR measurements"
-		url = "http://www.awec2017.com/presentations/markus-sommerfeld-2"
-		tagline = "Airborne Wind Energy Conference 2017"
-
-		[[params.publications.list]]
-		title = "AWESome potential: Airborne wind energy’s opportunities and challenges"
-		url = "https://youtu.be/UiriQHZMcs0"
-		tagline = "Pacific Institute for Climate Solutions, March 2018"
-
-
-
-
-# Presentation section
-
-#[params.presentations]
-#enable = true
-#icon = "fa-presentation"
-#title = "Presentations"
-#intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
-#
-#[[params.presentations.list]]
-
-#    title = "Hugrid"
-
-#    url = "https://github.com/aerohub/hugrid"
-
-#    tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
-
-
-
 
 # Skills section
 
@@ -450,6 +366,90 @@ disable404 = true
 	[[params.softskills.list]]
     skill = "Adaptability"
     level = "100%"
+
+
+	# Publication section
+		[params.publications]
+		enable = true
+		icon = "fa-newspaper-o"
+		title = "Publications"
+		intro = ""
+		
+		[[params.publications.list]]
+		title = "Ground-generation airborne wind energy design space exploration"
+		url = "https://doi.org/placeholder"
+		tagline = "Wind Energy Science, Submitted"
+		
+		[[params.publications.list]]
+		title = "Offshore and onshore ground-generation airborne wind energy power curve characterization"
+		url = "https://doi.org/placeholder"
+		tagline = "Wind Energy Science, Submitted"
+		
+		[[params.publications.list]]
+		title = "Airborne wind energy trajectory optimization using realistic wind speed profiles"
+		url = "https://doi.org/10.5281/zenodo.3357152"
+		tagline = "Wind Energy Science Conference 2019"
+		
+		[[params.publications.list]]
+		title = "Mesoscale model based techniques for LiDAR wind speed measurement gap-filling"
+		url = "https://doi.org/10.5281/zenodo.3357147"
+		tagline = "Wind Energy Science Conference 2019"
+
+		[[params.publications.list]]
+		title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
+		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+		tagline = "Airborne Wind Energy Conference 2019"
+		
+		[[params.publications.list]]
+		title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
+		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+		tagline = "Airborne Wind Energy Conference 2019"
+	  
+		[[params.publications.list]]
+		title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
+		url = "https://doi.org/10.5194/wes-4-563-2019"
+		tagline = "Wind Energy Science, Volume 4, Issue 4, October 2019"
+
+		[[params.publications.list]]
+		title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
+		url = "https://doi.org/10.1002/we.2343"
+		tagline = "Wiley Wind Energy: Volume22, Issue 8, August 2019"
+
+		[[params.publications.list]]
+		title = "High Altitude LiDAR Measurements of the Wind Conditions for Airborne Wind Energy Systems"
+		url = "http://www.awec2017.com/presentations/markus-sommerfeld"
+		tagline = "Airborne Wind Energy Conference 2017"
+
+		[[params.publications.list]]
+		title = "LES generated turbulent inflow fields from mesoscale modeling driven by LiDAR measurements"
+		url = "http://www.awec2017.com/presentations/markus-sommerfeld-2"
+		tagline = "Airborne Wind Energy Conference 2017"
+
+		[[params.publications.list]]
+		title = "AWESome potential: Airborne wind energy’s opportunities and challenges"
+		url = "https://youtu.be/UiriQHZMcs0"
+		tagline = "Pacific Institute for Climate Solutions, March 2018"
+
+
+
+
+# Presentation section
+
+#[params.presentations]
+#enable = true
+#icon = "fa-presentation"
+#title = "Presentations"
+#intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+#
+#[[params.presentations.list]]
+
+#    title = "Hugrid"
+
+#    url = "https://github.com/aerohub/hugrid"
+
+#    tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+
+
 
 	 
 
