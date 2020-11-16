@@ -293,43 +293,52 @@ disable404 = true
     title = "Skills & Proficiency"
 
     [[params.skills.list]]
-    skill = "Renewable Energy"
+    skill = "Wind Energy"
     level = "100%"
 	
 	[[params.skills.list]]
-    skill = "Design"
+    skill = "Mechanical Design"
     level = "80%"
 
     [[params.skills.list]]
-    skill = "Aerospace"
-    level = "80%"
+    skill = "Aerodynamics"
+    level = "90%"
 	
 	[[params.skills.list]]
-    skill = "Certification"
+    skill = "Testing & Certification"
     level = "70%"
 	
 	[[params.skills.list]]
     skill = "Data Analysis"
     level = "90%"
-
-		
+	
+	[[params.skills.list]]
+    skill = "Fundamental fluid and solid mechanics"
+    level = "90%"
+						 
     [[params.skills.list]]
     skill = "Python & Matlab"
     level = "90%"
             
     [[params.skills.list]]
     skill = "CAD software: Catia, Solid Edge"
-    level = "70%"
+    level = "80%"
 
     [[params.skills.list]]
     skill = "CFD: ANSYS Fluent"
     level = "80%"
 
     [[params.skills.list]]
+    skill = "FEA: ANSYS Mechanical"
+    level = "50%"
+
+    [[params.skills.list]]
     skill = "Mesoscale weather modeling: WRF"
     level = "70%"
-
-
+	
+	[[params.skills.list]]
+    skill = "Budgeting"
+    level = "50%"
 
 
 
@@ -338,7 +347,7 @@ disable404 = true
 [params.softskills]
     enable = true
     icon = "fa-commenting"
-    title = "Soft Skills"
+    title = "Personal Skills"
 
 	[[params.softskills.list]]
     skill = "Self-Management"
