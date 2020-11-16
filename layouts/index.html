@@ -18,10 +18,6 @@
     {{ if .Site.Params.experiences.enable }}
     {{ partial "experiences.html" . }}
     {{ end }}
-
-    {{ if .Site.Params.projects.enable }}
-    {{ partial "projects.html" . }}
-    {{ end }}
 	
     {{ if .Site.Params.skills.enable }}
 	{{ partial "skills.html" . }}
@@ -29,6 +25,10 @@
 	
     {{ if .Site.Params.softskills.enable }}
 	{{ partial "softskills.html" . }}
+    {{ end }}
+	
+	{{ if .Site.Params.projects.enable }}
+    {{ partial "projects.html" . }}
     {{ end }}
 	
 	{{ if .Site.Params.publications.enable }}
