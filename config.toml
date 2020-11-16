@@ -265,25 +265,25 @@ disable404 = true
 	    tagline = "Oversaw the annual budget of the Graduate Students' Society during the three year tenure as a member of the  finance committee. Planned the renovation of the university’s “Grad House” restaurant, together with other representatives, staff and managers."
 	 
 		[[params.projects.list]]
-	    title = "Entrpreneurship Playground"
+	    title = "Co-Founder: Entrpreneurship Playground"
 	    url = "https://www.uvic.ca/innovation/"
-	    tagline = "Organized several events to promote student entrepreneurship together with the Coast Capital Innovation Centre at the University of Victoria."
+	    tagline = "Co-founded an organization to promote student entrepreneurship. Planned several events and organized speakers together with the Coast Capital Innovation Centre. Participated and won business idea pitch competitions."
 	    
 		[[params.projects.list]]
 	    title = "Diploma Thesis"
 	    url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
-	    tagline = "Development, design and initial operation of a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps. (grade: 1.0)"
+	    tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps. (grade: 1.0)"
 
 	    [[params.projects.list]]
 	    title = "Student Research Project"
 	    url = "https://www.mv.uni-kl.de/en/sam/"
-	    tagline = "Designed, simulated aerodynamic properties and manufactured a scaled model of an Audi R8 for wind tunnel testing (grade 1.0) "
+	    tagline = "Designed and manufactured a scaled model of an Audi R8 for wind tunnel testing. Simulated aerodynamic reference CFD model for validation. (grade 1.0)"
 		#I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation.
 	
 	    [[params.projects.list]]
 	    title = "Student Research Project:"
 	    url = "https://www.mv.uni-kl.de/en/imad/"
-	    tagline = "Investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into commercial CFD software (grade 1.0)"
+	    tagline = "Numerically investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a CFD model and evaluating the impact of various model parameters. (grade 1.0)"
 
 # Skills section
 
