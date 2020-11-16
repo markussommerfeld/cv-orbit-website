@@ -161,16 +161,15 @@ disable404 = true
     
         [[params.interests.list]]
         interest = "Family"
-		icon = "fa-house"
+		icon = "fa-baby"
 
         [[params.interests.list]]
         interest = "Crossfit"
 		icon = "fa-dumbbell"
 
-    
         [[params.interests.list]]
         interest = "Technology"
-		icon = "fa-map-marker"
+		icon = "fa-chalkboard-teacher"
 
         [[params.interests.list]]
         interest = "Entrepreneurship"
