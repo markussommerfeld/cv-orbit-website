@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Markus Sommerfeld"
-        tagline = "Researcher, Engineer and Father"
+        tagline = "Futurist, Researcher and Engineer"
 		#birthday = "3 February 1987"
 		#location = "Victoria, BC, Canada"
         avatar = "profile.png"
@@ -196,29 +196,36 @@ disable404 = true
 	    title = "Experiences"
 	
 	    [[params.jobs.list]]
-	    position = "PhD"
+	    position = "PhD in Mechanical Engineering"
 	    dates = "2015 - 2020"
 	    company = "University of Victoria, BC, Canada"
 	    details = "Determined the wind energy potential of innovative, new airborne wind energy systems and tall wind turbines. Collaborated with international research institutes, universities and companies. Evaluated LiDAR measurements, simulated wind weather models, optimized trajectories, analyzed results. Published in high-impact journal and presented at several conferences and seminars."
+
+	    [[params.jobs.list]]
+	    position = "Project Engineer"
+	    dates = "2018 - 2020"
+	    company = "University of Victoria, BC, Canada"
+	    details = "Consulted several start-ups and research groups in their development of novel designs.These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants. Rewrite this!"
+
 	
 	    [[params.jobs.list]]
-	    position = "Research Assistant"
+	    position = "Research Assistant: Wind Turbine Blade Manufacturing"
 	    dates = "2015"
 	    company = "Fraunhofer IWES, Bremerhaven, Germany"
 	    details = "Continued working on the 'BladeMaker' project after finishing my diploma thesis. My work on the automated laying head contributed to the development of an automated rotor blade manufacturing process which reduces the manufacturing costs by over 10% while providing consistently high quality."
 	
+	  [[params.jobs.list]]
+	    position = "Graduate Intern: Test Engineer"
+	    dates = "2013 - 2014"
+	    company = "TÜV Rheinland, Yokohama, Japan"
+	    details = "Tested photovoltaic modules to meet international standards at the Solar Energy Assessment Center. These included impact and humidity freeze tests among others. Consulted local customers during the planning phase of large scale solar power plants by calculating the annual energy yield. Independently developed an uncertainty estimation to improve revenue predictions."
+
 	   [[params.jobs.list]]
-	    position = "Graduate Intern"
+	    position = "Graduate Intern: Test and Design Engineer"
 	    dates = "2012"
 	    company = "Airbus Operations, Hamburg, Germany"
 	    details = "Planned, scheduled, executed and analyzed certification experiments as an intern at the Structures Test center. Carried out various component tests on CFRP A350 fuselage parts and lighting strike repair patches. Designed, oversaw the manufacturing and performed initial operation of the A400M roller system test rig."
-	
-	  [[params.jobs.list]]
-	    position = "Graduate Intern"
-	    dates = "2013 - 2014"
-	    company = "TÜV Rheinland, Yokohama, Japan"
-	    details = "Certified photovoltaic modules to meet international standards at the Solar Energy Assessment Center. These included impact and humidity freeze tests among others. Consulted local customers during the planning phase of large scale solar power plants by calculating the annual energy yield. Independently developed an uncertainty estimation to improve revenue predictions."
-	
+		
 	    #[[params.jobs.list]]
 	    #position = " Grad student representative"
 	    #dates = "2016 - 2017"
