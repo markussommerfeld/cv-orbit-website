@@ -239,25 +239,30 @@ disable404 = true
 		# This section lists up some of the lates projects I worked on.
 		
 	    [[params.projects.list]]
-	    title = "New Leaf: Engineering Projects"
+	    title = "Engineering Consultant: New Leaf"
 	    url = "http://www.newleaf.co/"
-	    tagline = "Consulted New Leaf Management Ltd. Vancouver in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
+	    tagline = "Consulted researchers in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. Estimated power and mechanical tether load for various system sizes using numerical optimization based on realistic wind speed profiles. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
 
 	    [[params.projects.list]]
-	    title = "Ocean Rodeo: Engineering Projects"
+	    title = "Engineering Consultant: Ocean Rodeo"
 	    url = "https://oceanrodeo.com/"
-	    tagline = "Consulted Ocean Rodeo, Victoria in early concept development of a small-scale Airborne Wind Energy System."
+	    tagline = "Generated concepts and designed a small-scale Airborne Wind Energy System for mobile deployment in collaboration with kite engineers and kiteboarding experts. This project was partially funded through NSERC Engage Grant and NRC-IRAP grants."
 
 	    [[params.projects.list]]
 	    title = "Teaching Assistant"
 	    url = "https://www.uni-kl.de/en/"
-	    tagline = "Worked as a teaching assistant and tutor for various chairs within the mechanical engineering department of the Technical University of Kaiserslautern and the University of Victoria. Taught and organized engineering mechanics, fluid mechanics and wind energy tutorials and laboratories. Worked at the Institute for Composite Materials and supervised capstone design projects."
+	    tagline = "Supervised final design capstone projects. Organized and led meetings. Evaluated performance and tracked progress. Tutored engineering mechanics, fluid mechanics and wind energy tutorials as well as laboratories. Co-developed material for an online wind energy course. "
+	
+	    [[params.projects.list]]
+	    title = "Student Assistant"
+	    url = "https://www.ivw.uni-kl.de/en/home"
+	    tagline = "Preparation, execution of CFRP test specimens for static load tests. FEA modeling and stress estimation of these tests."
 	
 	
 	    [[params.projects.list]]
 	    title = "Grad Student Representative"
 	    url = "https://gss.uvic.ca/"
-	    tagline = "Held the office of graduate student representative and was part of  the finance committee during the first three years of my Phd research. Oversaw the annual budget and planned, together with staff and managers, the renovation of the university’s “Grad House” restaurant."
+	    tagline = "Oversaw the annual budget of the Graduate Students' Society during the three year tenure as a member of the  finance committee. Planned the renovation of the university’s “Grad House” restaurant, together with other representatives, staff and managers."
 	 
 		[[params.projects.list]]
 	    title = "Entrpreneurship Playground"
