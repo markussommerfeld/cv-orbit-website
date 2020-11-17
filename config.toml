@@ -161,7 +161,7 @@ disable404 = true
     
         [[params.interests.list]]
         interest = "Family"
-		icon = "fa-floppy"
+		icon = "fa-houzz"
 
         [[params.interests.list]]
         interest = "Crossfit"
