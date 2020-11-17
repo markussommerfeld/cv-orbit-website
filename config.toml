@@ -364,7 +364,7 @@ disable404 = true
 		
 	[[params.softskills.list]]
     skill = "Teamwork"
-    level = "90%"
+    level = "80%"
 	
 	[[params.softskills.list]]
     skill = "Creativity"
@@ -372,7 +372,7 @@ disable404 = true
 	
 	[[params.softskills.list]]
     skill = "Proactive"
-    level = "80%"
+    level = "90%"
 	
 	[[params.softskills.list]]
     skill = "Public Speaking"
