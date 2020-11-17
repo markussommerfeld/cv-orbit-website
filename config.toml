@@ -309,7 +309,7 @@ disable404 = true
     skill = "Aerodynamics"
     level = "90%"
 	
-	[[params.softskills.list]]
+	[[params.skills.list]]
     skill = "Project Management"
     level = "80%"
 	
