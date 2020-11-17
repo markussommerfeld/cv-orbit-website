@@ -165,7 +165,7 @@ disable404 = true
 
         [[params.interests.list]]
         interest = "Crossfit"
-		icon = "fa-dumbbell"
+		icon = "fa-running"
 
         [[params.interests.list]]
         interest = "Technology"
