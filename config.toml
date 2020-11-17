@@ -227,7 +227,7 @@ disable404 = true
 	    position = "Graduate Intern: Test and Design Engineer"
 	    dates = "2012"
 	    company = "Airbus Operations, Structures Test center, Hamburg, Germany"
-	    details = "Independently planned, executed and analyzed component tests on CFRP A350 fuselage parts and lighting strike repair patches. Supported experienced project engineers with scheduling tests, progress tracking and data acquisition. Collaborated on the design, oversaw the manufacturing and commissioned the A400M roller system test rig."
+	    details = "Independently planned, executed and analyzed component tests on CFRP A350 fuselage parts and lighting strike repair patches. Supported experienced project engineers with scheduling tests, progress tracking and data acquisition. Collaborated on the design, supervised the manufacturing and commissioned the A400M roller system test rig."
 		
 	    #[[params.jobs.list]]
 	    #position = "Grad student representative"
@@ -267,7 +267,7 @@ disable404 = true
 	    [[params.projects.list]]
 	    title = "Grad Student Representative"
 	    url = "https://gss.uvic.ca/"
-	    tagline = "Oversaw the annual budget of the Graduate Students' Society during the three year tenure as a member of the  finance committee. Planned the renovation of the university’s “Grad House” restaurant, together with other representatives, staff and managers."
+	    tagline = "Oversaw the annual budget of the Graduate Students' Society during the three year tenure as a member of the  finance committee. Planned and monitored the renovation of the university’s “Grad House” restaurant, together with other representatives, staff and managers."
 	 
 		[[params.projects.list]]
 	    title = "Co-Founder: Entrpreneurship Playground"
@@ -277,18 +277,18 @@ disable404 = true
 		[[params.projects.list]]
 	    title = "Diploma Thesis"
 	    url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
-	    tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps. (grade: 1.0)"
+	    tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps (grade: 1.0). This project was part of the BladMaker project at Fraunhofer IWES."
 
 	    [[params.projects.list]]
 	    title = "Student Research Project"
 	    url = "https://www.mv.uni-kl.de/en/sam/"
-	    tagline = "Designed and manufactured a scaled model of an Audi R8 for wind tunnel testing. Simulated aerodynamic reference CFD model for validation. (grade 1.0)"
+	    tagline = "Designed and manufactured a scaled model of an Audi R8 for wind tunnel testing. Simulated aerodynamic reference CFD model for validation (grade 1.0). This project was supervised by the Institute of Fluid Mechanics and Turbomachinery at the Technical University of Kaiserslautern."
 		#I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation.
 	
 	    [[params.projects.list]]
 	    title = "Student Research Project:"
 	    url = "https://www.mv.uni-kl.de/en/imad/"
-	    tagline = "Numerically investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a CFD model and evaluating the impact of various model parameters. (grade 1.0)"
+	    tagline = "Numerically investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a CFD model and evaluating the impact of various model parameters (grade 1.0).  This project was supervised by the Institute for Mechanical and Automotive Design at the Technical University of Kaiserslautern."
 
 # Skills section
 
