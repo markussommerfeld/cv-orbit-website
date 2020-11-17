@@ -309,6 +309,10 @@ disable404 = true
     skill = "Aerodynamics"
     level = "90%"
 	
+	[[params.softskills.list]]
+    skill = "Project Management"
+    level = "80%"
+	
 	[[params.skills.list]]
     skill = "Testing & Certification"
     level = "70%"
@@ -359,20 +363,16 @@ disable404 = true
     level = "100%"
 		
 	[[params.softskills.list]]
-    skill = "Critical Thinking"
-    level = "100%"
+    skill = "Teamwork"
+    level = "90%"
 	
 	[[params.softskills.list]]
     skill = "Creativity"
-    level = "100%"
-	
-	[[params.softskills.list]]
-    skill = "Project Management"
     level = "80%"
 	
 	[[params.softskills.list]]
-    skill = "Problem-solving"
-    level = "90%"
+    skill = "Proactive"
+    level = "80%"
 	
 	[[params.softskills.list]]
     skill = "Public Speaking"
@@ -380,6 +380,10 @@ disable404 = true
 
 	[[params.softskills.list]]
     skill = "Communication"
+    level = "80%"
+	
+	[[params.softskills.list]]
+    skill = "Critical Thinking"
     level = "80%"
 	
 	[[params.softskills.list]]
