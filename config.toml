@@ -161,7 +161,7 @@ disable404 = true
     
         [[params.interests.list]]
         interest = "Family"
-		icon = "fas fa-home"
+		icon = "fa fa-home"
 
         [[params.interests.list]]
         interest = "Crossfit"
@@ -173,7 +173,7 @@ disable404 = true
 
         [[params.interests.list]]
         interest = "Entrepreneurship"
-		icon = "fas fa-map-marker"
+		icon = "fa fa-map-marker"
 
 	   [[params.interests.list]]
         interest = "Cooking & Eating"
