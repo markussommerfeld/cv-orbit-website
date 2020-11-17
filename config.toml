@@ -173,11 +173,11 @@ disable404 = true
 
         [[params.interests.list]]
         interest = "Entrepreneurship"
-		icon = "fa fa-map-marker"
+		icon = "fa fa-puzzle-piece"
 
 	   [[params.interests.list]]
         interest = "Cooking & Eating"
-		icon = "fa fa-map-marker"
+		icon = "fa fa-cutlery"
 
 # Main body sections
 
