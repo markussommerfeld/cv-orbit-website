@@ -31,8 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Markus Sommerfeld"
-        tagline = "PhD in Mechanical Engineering 
-		Wind Energy Researcher <br> Project & Testing Engineer"
+        tagline = "<p>PhD in Mechanical Engineering Wind Energy Researcher <br> Project & Testing Engineer</p>"
 		#birthday = "3 February 1987"
 		#location = "Victoria, BC, Canada"
         avatar = "profile.png"
