@@ -157,27 +157,27 @@ disable404 = true
     # Interests section
     [params.interests]
         enable = true
-        title = "Interests"		
+        title = "Hobbies & Interests"		
     
         [[params.interests.list]]
-        interest = "Going  to the playground with my daughter"
+        interest = "Playtime with my daughter"
 		icon = "fa fa-home"
 
         [[params.interests.list]]
-        interest = "Crossfit"
+        interest = "Crossfit workouts"
 		icon = "fa fa-bomb"
 
         [[params.interests.list]]
-        interest = "Technology"
-		icon = "fa fa-cogs"
-
-        [[params.interests.list]]
-        interest = "Entrepreneurship"
+        interest = "Learning Japanese"
 		icon = "fa fa-puzzle-piece"
-
-	   [[params.interests.list]]
-        interest = "Cooking & Eating"
-		icon = "fa fa-cutlery"
+        [[params.interests.list]]
+		
+        interest = "Inventing stuff"
+		icon = "fa fa-cogs"
+		
+	   #[[params.interests.list]]
+        #interest = "Cooking & Eating"
+		#icon = "fa fa-cutlery"
 
 # Main body sections
 
