@@ -373,8 +373,7 @@ disable404 = true
 	[[params.softskills.list]]
     skill = "Problem Solving"
     level = "100%"
-	
-	
+		
 	[[params.softskills.list]]
     skill = "Proactive"
     level = "90%"
