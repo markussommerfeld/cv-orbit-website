@@ -221,7 +221,7 @@ disable404 = true
 	    position = "Graduate Intern: Test Engineer"
 	    dates = "2013 - 2014"
 	    company = "TÜV Rheinland, Solar Energy Assessment Center, Yokohama, Japan"
-	    details = "Independently performed and evaluated certification tests of photovoltaic modules, such as hail impact tests or humidity freeze tests, according to international standards. Developed and implemented module breakage test rig. Assisted in on-site inspections and safety assessments. Calculated annual energy yield predictions for local, large-scale solar power plants and developed an uncertainty estimation to improve revenue predictions for local customers."
+	    details = "Independently performed and evaluated certification tests of photovoltaic modules, such as hail impact tests or humidity freeze tests, according to international standards (IEC 61215, 61730 and 61646). Designed and implemented module breakage test rig. Assisted in on-site inspections and safety assessments. Calculated annual energy yield predictions for local, large-scale solar power plants and developed an uncertainty estimation to improve revenue predictions for local customers."
 
 	   [[params.jobs.list]]
 	    position = "Graduate Intern: Test and Design Engineer"
