@@ -176,8 +176,8 @@ disable404 = true
 		icon = "fa fa-cogs"
 		
 	   #[[params.interests.list]]
-        #interest = "Cooking & Eating"
-		#icon = "fa fa-cutlery"
+        interest = "Sharing vegan and vegetarian meals with friends"
+		icon = "fa fa-cutlery"
 
 # Main body sections
 
