@@ -171,9 +171,9 @@ disable404 = true
         interest = "Learning Japanese"
 		icon = "fa fa-puzzle-piece"
         
-		[[params.interests.list]]
-		interest = "Inventing stuff"
-		icon = "fa fa-cogs"
+		#[[params.interests.list]]
+		#interest = "Inventing stuff"
+		#icon = "fa fa-cogs"
 
 		[[params.interests.list]]
 		interest = "Working on website"
