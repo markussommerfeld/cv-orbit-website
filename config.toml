@@ -171,9 +171,9 @@ disable404 = true
         interest = "Learn Japanese"
 		icon = "fa fa-puzzle-piece"
         
-		[[params.interests.list]]
-		interest = "Invent stuff"
-		icon = "fa fa-cogs"
+		#[[params.interests.list]]
+		#interest = "Invent stuff"
+		#icon = "fa fa-cogs"
 
 		[[params.interests.list]]
 		interest = "Work on website"
@@ -193,7 +193,7 @@ disable404 = true
 		enable = true
 		icon = "fa-user"
 		title = "Career Profile"
-		summary = "Master and PhD in Mechanical engineering with structure test leadership experience and proven skills in wind modeling, programming, data analysis and mechanical design.  <br><br> <br>My research on airborne wind energy systems combines wind resource assessment, via LiDAR measurements and WRF weather simulations, with aircraft modeling and trajectory optimization. Together with international teams in Germany and Japan, I planned and organized aircraft structure tests as well as solar PV certification projects. Working as a teaching assistant, tutor and student representative throughout my degrees made me an efficient communicator and taught me to manage my own time while supervising multiple small teams. <br><br> My goal is to use my wind energy expertise and passion for aerospace technologies to provide sustainable, affordable electricity and cleaner, more efficient means of transportation."    
+		summary = "Master and PhD in Mechanical engineering with structure test leadership experience and proven skills in wind modeling, programming, data analysis and mechanical design.  <br><br><br>My research on airborne wind energy systems combines wind resource assessment, via LiDAR measurements and WRF weather simulations, with aircraft modeling and trajectory optimization. Together with international teams in Germany and Japan, I planned and organized aircraft structure tests as well as solar PV certification projects. Working as a teaching assistant, tutor and student representative throughout my degrees made me an efficient communicator and taught me to manage my own time while supervising multiple small teams. <br><br> My goal is to use my wind energy expertise and passion for aerospace technologies to provide sustainable, affordable electricity and cleaner, more efficient means of transportation."    
 
 
 	# Experiences section
@@ -225,7 +225,7 @@ disable404 = true
 	    position = "Graduate Intern: Test Engineer"
 	    dates = "2013 - 2014"
 	    company = "TÜV Rheinland, Solar Energy Assessment Center, Yokohama, Japan"
-	    details = "Independently performed and evaluated certification tests of photovoltaic modules, such as hail impact tests or humidity freeze tests, according to international standards (IEC 61215, 61730 and 61646). Designed and implemented module breakage test rig. Assisted in on-site inspections and safety assessments. Calculated annual energy yield predictions for local, large-scale solar power plants and developed an uncertainty estimation to improve revenue predictions for local customers."
+	    details = "Diligently performed and evaluated certification tests of photovoltaic modules, such as hail impact tests or humidity freeze tests, according to international standards (IEC 61215, 61730 and 61646). Designed and implemented module breakage test rig. Assisted in on-site inspections and safety assessments. Calculated annual energy yield predictions for local, large-scale solar power plants and developed an uncertainty estimation to improve revenue predictions for local customers."
 
 	   [[params.jobs.list]]
 	    position = "Graduate Intern: Test and Design Engineer"
