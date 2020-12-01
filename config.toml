@@ -82,7 +82,7 @@ disable404 = true
     #    url = "tel:+1234567890"
     #    title = "+1234567890"
     
-        [[params.contact.list]]
+        #[[params.contact.list]]
         #class = "website"
         #icon = "fa-globe"
         #url = "" #https://markussommerfeld-academic.netlify.com/
