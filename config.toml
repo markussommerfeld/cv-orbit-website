@@ -83,10 +83,10 @@ disable404 = true
     #    title = "+1234567890"
     
         [[params.contact.list]]
-        class = "website"
-        icon = "fa-globe"
-        url = "" #https://markussommerfeld-academic.netlify.com/
-        title = "markussommerfeld-academic.com"
+        #class = "website"
+        #icon = "fa-globe"
+        #url = "" #https://markussommerfeld-academic.netlify.com/
+        #title = "markussommerfeld-academic.com"
     
         [[params.contact.list]]
         class = "linkedin"
