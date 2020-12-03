@@ -121,7 +121,7 @@ disable404 = true
         title = "Education"
     
     	[[params.education.list]]
-        degree = "PhD in Mechanical Engineering"
+        degree = "PhD. in Mechanical Engineering"
         college = "University of Victoria, BC, Canada"
         dates = "2015 - 2020"
     	
