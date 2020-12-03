@@ -71,8 +71,10 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: msommerf@uvic.ca"
-        title = "msommerf@uvic.ca"
+        url = "mailto: markus_sommerfeld@yahoo.de"
+        title = "markus_sommerfeld@yahoo.de"
+		#url = "mailto: msommerf@uvic.ca"
+        #title = "msommerf@uvic.ca"
     
 	
 	
@@ -314,11 +316,11 @@ disable404 = true
     level = "90%"
 	
 	[[params.skills.list]]
-    skill = "Project Management"
+    skill = "Test Lead"
     level = "80%"
 	
 	[[params.skills.list]]
-    skill = "Testing & Certification"
+    skill = "Project Management"
     level = "70%"
 	
 	[[params.skills.list]]
@@ -326,7 +328,7 @@ disable404 = true
     level = "90%"
 	
 	[[params.skills.list]]
-    skill = "Fundamental fluid and solid mechanics"
+    skill = "Fluid and solid mechanics"
     level = "90%"
 						 
     [[params.skills.list]]
