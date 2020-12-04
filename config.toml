@@ -267,8 +267,8 @@ disable404 = true
 	    [[params.projects.list]]
 	    title = "Grad Student Representative"
 	    url = "https://gss.uvic.ca/"
-	    tagline = "Oversaw the annual budget of the Graduate Students' Society during the three year tenure as a member of the  finance committee. Planned and monitored the renovation of the university’s “Grad House” restaurant, together with other representatives, staff and managers."
-	 
+	    tagline = "Oversaw the Graduate Students' Society's annual budget of $1.7MM during the three year tenure as a member of the finance committee. Planned and monitored the renovation of the university’s “Grad House” restaurant, together with other representatives, staff and managers."
+	  
 		[[params.projects.list]]
 	    title = "Co-Founder: Entrpreneurship Playground"
 	    url = "https://www.uvic.ca/innovation/"
