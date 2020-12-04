@@ -261,7 +261,7 @@ disable404 = true
 
 	    [[params.projects.list]]
 	    title = "Teaching Assistant"
-	    url = "https://www.uni-kl.de/en/"
+	    url = "https://www.uvic.ca"
 	    tagline = "Supervised final design capstone projects. Organized and led meetings. Evaluated performance and tracked progress. Tutored engineering mechanics, fluid mechanics and wind energy tutorials as well as laboratories. Co-developed material for an online wind energy course. "
 	
 	    [[params.projects.list]]
