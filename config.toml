@@ -170,19 +170,19 @@ disable404 = true
 		icon = "fa fa-bomb"
 
         [[params.interests.list]]
-        interest = "Learn Japanese"
+        interest = "Learning Japanese"
 		icon = "fa fa-puzzle-piece"
         
 		#[[params.interests.list]]
-		#interest = "Invent stuff"
+		#interest = "Inventing stuff"
 		#icon = "fa fa-cogs"
 
 		[[params.interests.list]]
-		interest = "Work on website"
+		interest = "Working on website"
 		icon = "fa fa-rebel"
 		
 		[[params.interests.list]]
-        interest = "Try out vegan and vegetarian recipes"
+        interest = "Trying out vegan and vegetarian recipes"
 		icon = "fa fa-cutlery"
 
 # Main body sections
