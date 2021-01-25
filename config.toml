@@ -319,7 +319,7 @@ disable404 = true
     level = "60%"
 	
 	[[params.skills.list]]
-    skill = "Test Lead"
+    skill = "Test Leadership"
     level = "80%"
 	
 	[[params.skills.list]]
