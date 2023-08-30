@@ -53,7 +53,7 @@ disable404 = true
 		[[params.profile_info.list]]
 		class = "location"
 		icon = "fa-map-marker"
-        title = " Victoria, BC, Canada"
+        title = "Tokyo, Japan"
 		
 		#[[params.contact.list]]
         #class = "website"
@@ -197,10 +197,21 @@ disable404 = true
 	    title = "Work Experience"
 	
 	    [[params.jobs.list]]
+	    position = "Senior Mechanical Engineer"
+	    dates = "April 2021 - April 2023"
+	    company = "New Leaf Management, Vancouver BC, Canada, Vancouver BC, Canada"
+	    project = "Project: Research and development of a hydraulic Airborne Wind Energy ground station"
+	    details = "Led a project to develop and refactor a detailed simulation toolbox for hydraulic piston motor models in Matlab Simulink.
+        	Organized and led regular technical meetings for a team of five, overseeing project progress, coordinating software interfaces, and ensuring the achievement of satisfactory delivery.
+        	Initiated and administrated cloud-based version control and collaborative development via GitHub, ensuring seamless coordination among team members for enhanced project efficiency.
+        	Designed and sized ground station components for utility-scale systems in direct collaboration with customers and suppliers, ensuring alignment with precise requirements and optimal integration."
+
+	    [[params.jobs.list]]
 	    position = "PhD in Mechanical Engineering"
 	    dates = "2015 - 2020"
 	    company = "University of Victoria, Institute for Integrated Energy Systems, Victoria BC, Canada"
 	    details = "Determined the wind energy potential of innovative, new airborne wind energy systems and tall wind turbines. Collaborated with international research institutes, universities and companies. Evaluated LiDAR measurements, simulated numerical weather predictions, optimized trajectories of tethered aircraft and performed a sizing study. Published in high-impact journals and presented at international conferences and seminars."
+
 
 	    [[params.jobs.list]]
 	    position = "Engineering Consultant: various Projects"
