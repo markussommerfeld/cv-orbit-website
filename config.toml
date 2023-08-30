@@ -72,7 +72,7 @@ disable404 = true
         class = "email"
         icon = "fa-envelope"
         url = "mailto: markus_sommerfeld@yahoo.de"
-        title = "markus_sommerfeld@yahoo.de"
+        title = "\yinty markus_sommerfeld@yahoo.de"
 		#url = "mailto: msommerf@uvic.ca"
         #title = "msommerf@uvic.ca"
     
@@ -142,19 +142,19 @@ disable404 = true
     
        [[params.language.list]]
        language = "German"
-       level = "5"
+       level = "Native speaker"
     
        [[params.language.list]]
        language = "English"
-       level = "4"
+       level = "Full proficiency"
     
        [[params.language.list]]
        language = "Japanese"
-       level = "2"
+       level = "Conversational"
     
-       [[params.language.list]]
-       language = "French"
-       level = "2"
+      # [[params.language.list]]
+      # language = "French"
+      # level = "2"
     
     # Interests section
     [params.interests]
@@ -303,105 +303,97 @@ disable404 = true
     title = "Skills & Proficiency"
 
     [[params.skills.list]]
-    skill = "Wind Energy"
+    skill = "Wind Measurement: LiDAR \& Metmast"
     level = "100%"
 	
 	[[params.skills.list]]
-    skill = "Mechanical Design"
+    skill = "Wind Modelling: WRF"
     level = "80%"
 
     [[params.skills.list]]
-    skill = "Aerodynamics"
-    level = "90%"
-	
-	[[params.skills.list]]
-    skill = "Optimization"
-    level = "60%"
-	
-	[[params.skills.list]]
-    skill = "Test Leadership"
-    level = "80%"
+    skill = "Data Analysis \& Visualization: Python \& Matlab"
+    level = "100%"
 	
 	[[params.skills.list]]
     skill = "Project Management"
-    level = "70%"
-	
-	[[params.skills.list]]
-    skill = "Data Analysis"
     level = "90%"
 	
 	[[params.skills.list]]
-    skill = "Fluid and solid mechanics"
-    level = "90%"
+    skill = "Dynamic Modeling: Matlab Simulink"
+    level = "100%"
+        
+	[[params.skills.list]]
+    skill = "Solar Modelling: PVsyst"
+    level = "60%"
+	
+	[[params.skills.list]]
+    skill = "Fluid Simulation: Ansys Fluent"
+    level = "80%"
+	
+	
+	[[params.skills.list]]
+    skill = "MS Office \& Latex"
+    level = "100%"
 						 
     [[params.skills.list]]
-    skill = "Python & Matlab"
-    level = "90%"
+    skill = "Windows \& Linux"
+    level = "100%"
             
     [[params.skills.list]]
     skill = "CAD software: Catia, Solid Edge"
     level = "80%"
 
     [[params.skills.list]]
-    skill = "CFD: ANSYS Fluent"
-    level = "80%"
-
-    [[params.skills.list]]
     skill = "FEA: ANSYS Mechanical"
-    level = "50%"
+    level = "60%"
 
     [[params.skills.list]]
-    skill = "Mesoscale weather modeling: WRF"
-    level = "70%"
-	
-	[[params.skills.list]]
-    skill = "Budgeting"
-    level = "50%"
-
+    skill = "Public Speaking"
+    level = "100%"
 
 
 # Soft Skills section
 
-[params.softskills]
-    enable = true
-    icon = "fa-commenting"
-    title = "Personal Skills"
+# [params.softskills]
+#    enable = true
+#    icon = "fa-commenting"
+#    title = "Personal Skills"
 
-	[[params.softskills.list]]
-    skill = "Self-Management"
-    level = "100%"
+#	[[params.softskills.list]]
+#    skill = "Self-Management"
+#    level = "100%"
 		
-	[[params.softskills.list]]
-    skill = "Teamwork"
-    level = "80%"
+#	[[params.softskills.list]]
+#    skill = "Teamwork"
+#    level = "80%"
 	
-	[[params.softskills.list]]
-    skill = "Creativity"
-    level = "80%"
+#	[[params.softskills.list]]
+#    skill = "Creativity"
+#    level = "80%"
 	
-	[[params.softskills.list]]
-    skill = "Problem Solving"
-    level = "100%"
+#	[[params.softskills.list]]
+#    skill = "Problem Solving"
+#    level = "100%"
 		
-	[[params.softskills.list]]
-    skill = "Proactive"
-    level = "90%"
+#	[[params.softskills.list]]
+#    skill = "Proactive"
+#    level = "90%"
 	
-	[[params.softskills.list]]
-    skill = "Public Speaking"
-    level = "90%"
+#	[[params.softskills.list]]
+#    skill = "Public Speaking"
+#    level = "90%"
 
-	[[params.softskills.list]]
-    skill = "Communication"
-    level = "80%"
+#	[[params.softskills.list]]
+#    skill = "Communication"
+#    level = "80%"
 	
-	[[params.softskills.list]]
-    skill = "Critical Thinking"
-    level = "80%"
+#	[[params.softskills.list]]
+#    skill = "Critical Thinking"
+#    level = "80%"
 	
-	[[params.softskills.list]]
-    skill = "Adaptability"
-    level = "100%"
+#	[[params.softskills.list]]
+#    skill = "Adaptability"
+#    level = "100%"
 
 
 	# Publication section
