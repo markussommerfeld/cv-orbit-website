@@ -354,10 +354,10 @@ disable404 = true
 
 # Soft Skills section
 
-# [params.softskills]
-#    enable = true
-#    icon = "fa-commenting"
-#    title = "Personal Skills"
+ [params.softskills]
+    enable = true
+    icon = "fa-commenting"
+    title = "Personal Skills"
 
 #	[[params.softskills.list]]
 #    skill = "Self-Management"
