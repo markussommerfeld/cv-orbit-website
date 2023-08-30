@@ -201,10 +201,7 @@ disable404 = true
 	    dates = "April 2021 - April 2023"
 	    company = "New Leaf Management, Vancouver BC, Canada, Vancouver BC, Canada"
 	   # project = "Project: Research and development of a hydraulic Airborne Wind Energy ground station"
-	    details = "Led a project to develop and refactor a detailed simulation toolbox for hydraulic piston motor models in Matlab Simulink.
-       	Organized and led regular technical meetings for a team of five, overseeing project progress, coordinating software interfaces, and ensuring the achievement of satisfactory delivery.
-        Initiated and administrated cloud-based version control and collaborative development via GitHub, ensuring seamless coordination among team members for enhanced project efficiency.
-        Designed and sized ground station components for utility-scale systems in direct collaboration with customers and suppliers, ensuring alignment with precise requirements and optimal integration."
+	    details = "Led a project to develop and refactor a detailed simulation toolbox for hydraulic piston motor models in Matlab Simulink."
 
 	    [[params.jobs.list]]
 	    position = "PhD in Mechanical Engineering"
