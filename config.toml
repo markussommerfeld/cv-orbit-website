@@ -303,7 +303,7 @@ disable404 = true
     title = "Skills & Proficiency"
 
     [[params.skills.list]]
-    skill = "Wind Measurement: LiDAR \& Metmast"
+    skill = "Wind Measurement: LiDAR & Metmast"
     level = "100%"
 	
 	[[params.skills.list]]
@@ -311,7 +311,7 @@ disable404 = true
     level = "80%"
 
     [[params.skills.list]]
-    skill = "Data Analysis \& Visualization: Python \& Matlab"
+    skill = "Data Analysis & Visualization: Python & Matlab"
     level = "100%"
 	
 	[[params.skills.list]]
@@ -332,11 +332,11 @@ disable404 = true
 	
 	
 	[[params.skills.list]]
-    skill = "MS Office \& Latex"
+    skill = "MS Office & Latex"
     level = "100%"
 						 
     [[params.skills.list]]
-    skill = "Windows \& Linux"
+    skill = "Windows & Linux"
     level = "100%"
             
     [[params.skills.list]]
@@ -355,9 +355,9 @@ disable404 = true
 # Soft Skills section
 
  [params.softskills]
-    enable = true
-    icon = "fa-commenting"
-    title = "Personal Skills"
+    enable = false
+#    icon = "fa-commenting"
+#    title = "Personal Skills"
 
 #	[[params.softskills.list]]
 #    skill = "Self-Management"
