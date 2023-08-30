@@ -63,16 +63,9 @@
 .fa.fa-play-circle-o {
   font-family: 'Font Awesome 5 Free';
   font-weight: 400; }
-  
+
 .fa.fa-play-circle-o:before {
   content: "\f144"; }
-  
-.fa.fa-running {
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 400; }
-
-.fa.fa-running {
-  content: "\f70c"; }
 
 .fa.fa-repeat:before {
   content: "\f01e"; }
