@@ -72,7 +72,7 @@ disable404 = true
         class = "email"
         icon = "fa-envelope"
         url = "mailto: markus_sommerfeld@yahoo.de"
-        title = "\yinty markus_sommerfeld@yahoo.de"
+        title = "markus_sommerfeld@yahoo.de"
 		#url = "mailto: msommerf@uvic.ca"
         #title = "msommerf@uvic.ca"
     
