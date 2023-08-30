@@ -201,7 +201,10 @@ disable404 = true
 	    dates = "April 2021 - April 2023"
 	    company = "New Leaf Management, Vancouver BC, Canada, Vancouver BC, Canada"
 	   # project = "Project: Research and development of a hydraulic Airborne Wind Energy ground station"
-	    details = "Led **a project** to develop and _refactor_ a detailed * simulation toolbox for hydraulic piston  *motor models in Matlab Simulink."
+	    details = "Led **a project** to develop and _refactor_ a detailed 
+            	    * simulation toolbox for hydraulic piston  
+            	    * motor models in Matlab Simulink.
+        	       test."
 
 	    [[params.jobs.list]]
 	    position = "PhD in Mechanical Engineering"
