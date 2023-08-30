@@ -201,9 +201,12 @@ disable404 = true
 	    dates = "April 2021 - April 2023"
 	    company = "New Leaf Management, Vancouver BC, Canada, Vancouver BC, Canada"
 	   # project = "Project: Research and development of a hydraulic Airborne Wind Energy ground station"
-	    details = "* Red
-                    * Green
-                    * Blue"
+	    details = "<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul> "
 
 	    [[params.jobs.list]]
 	    position = "PhD in Mechanical Engineering"
