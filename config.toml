@@ -162,16 +162,12 @@ disable404 = true
         title = "Hobbies & Interests"		
     
         [[params.interests.list]]
-        interest = "Playtime with my daughter"
-		icon = "fa fa-home"
-
-        [[params.interests.list]]
-        interest = "Crossfit workouts with friends"
-		icon = "fa fa-bomb"
+        interest = "Crossfit & running"
+		icon = "fa fa-dumbbell"
 
         [[params.interests.list]]
         interest = "Learning Japanese"
-		icon = "fa fa-puzzle-piece"
+		icon = "fa fa-graduation-cap"
         
 		#[[params.interests.list]]
 		#interest = "Inventing stuff"
@@ -181,10 +177,6 @@ disable404 = true
 		interest = "Working on website"
 		icon = "fa fa-rebel"
 		
-		[[params.interests.list]]
-        interest = "Trying out vegan and vegetarian recipes"
-		icon = "fa fa-cutlery"
-
 # Main body sections
 
 	# You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
@@ -306,31 +298,26 @@ disable404 = true
     skill = "Wind Measurement: LiDAR & Metmast"
     level = "100%"
 	
-	[[params.skills.list]]
+    [[params.skills.list]]
+    skill = "Data Analysis & Visualization: Python & Matlab"
+    level = "100%"
+        
+    [[params.skills.list]]
     skill = "Wind Modelling: WRF"
     level = "80%"
 
-    [[params.skills.list]]
-    skill = "Data Analysis & Visualization: Python & Matlab"
+	[[params.skills.list]]
+    skill = "Dynamic Modeling: Matlab Simulink"
     level = "100%"
 	
 	[[params.skills.list]]
     skill = "Project Management"
     level = "90%"
-	
+    
 	[[params.skills.list]]
-    skill = "Dynamic Modeling: Matlab Simulink"
+    skill = "Public Speaking"
     level = "100%"
-        
-	[[params.skills.list]]
-    skill = "Solar Modelling: PVsyst"
-    level = "60%"
-	
-	[[params.skills.list]]
-    skill = "Fluid Simulation: Ansys Fluent"
-    level = "80%"
-	
-	
+        	            
 	[[params.skills.list]]
     skill = "MS Office & Latex"
     level = "100%"
@@ -338,18 +325,24 @@ disable404 = true
     [[params.skills.list]]
     skill = "Windows & Linux"
     level = "100%"
-            
+    
+    [[params.skills.list]]
+    skill = "Fluid Simulation: Ansys Fluent"
+    level = "80%"
+    
     [[params.skills.list]]
     skill = "CAD software: Catia, Solid Edge"
     level = "80%"
+    
+   	[[params.skills.list]]
+    skill = "Solar Modelling: PVsyst"
+    level = "60%"
 
     [[params.skills.list]]
     skill = "FEA: ANSYS Mechanical"
     level = "60%"
 
-    [[params.skills.list]]
-    skill = "Public Speaking"
-    level = "100%"
+
 
 
 # Soft Skills section
