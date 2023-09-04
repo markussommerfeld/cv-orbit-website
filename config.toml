@@ -204,11 +204,11 @@ disable404 = true
 	    details = "- Led a project to develop and refactor a detailed simulation toolbox for hydraulic piston motor models in Matlab Simulink. \n -	Organized and led regular technical meetings for a team of five, overseeing project progress, coordinating software interfaces, and ensuring the achievement of satisfactory delivery. \n -	Initiated and administrated cloud-based version control and collaborative development via GitHub, ensuring seamless coordination among team members for enhanced project efficiency. \n -	Designed and sized ground station components for utility-scale systems in direct collaboration with customers and suppliers, ensuring alignment with precise requirements and optimal integration."
 
 	    [[params.jobs.list]]
-	    position = "PhD in Mechanical Engineering"
-	    dates = "2015 - 2020"
+	    position = "Ph.D. in Mechanical Engineering"
+	    dates = "Sept. 2015 – Dec. 2020"
 	    company = "University of Victoria, Institute for Integrated Energy Systems, Victoria BC, Canada"
-	    details = "Determined the wind energy potential of innovative, new airborne wind energy systems and tall wind turbines. Collaborated with international research institutes, universities and companies. Evaluated LiDAR measurements, simulated numerical weather predictions, optimized trajectories of tethered aircraft and performed a sizing study. Published in high-impact journals and presented at international conferences and seminars."
-
+	    project = "Topic: Potential and Scalability of Airborne Wind Energy"
+	    details = "- Investigated the energy potential of novel Airborne Wind Energy Systems, based on LiDAR wind measurements as well as large-scale wind and weather models. \n - Implemented machine learning techniques to classify wind conditions, resulting in a substantial reduction of computational cost for the trajectory optimization of tethered aircraft within the context of a comprehensive sizing study. \n - Collaborated with global research groups, published articles in high-impact journals, presented at international conferences, and effectively conveyed complex research to diverse, non-technical audiences."
 
 	    [[params.jobs.list]]
 	    position = "Engineering Consultant: various Projects"
