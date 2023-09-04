@@ -242,7 +242,7 @@ disable404 = true
 	    #details = "**Describe your role here** Organizational and finance committee experience"
 
 	# Higher education section
-	[params.experiences]
+	[params.highereducation]
 	    enable = true
 	    icon = "fa-briefcase"
 	    title = "Higher Educatgion"
