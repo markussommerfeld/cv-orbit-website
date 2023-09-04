@@ -247,7 +247,7 @@ disable404 = true
 	    icon = "fa-briefcase"
 	    title = "Higher Educatgion"
 	
-	    [[params.jobs.list]]
+	    [[params.higheducation.list]]
 	    position = "Senior Mechanical Engineer"
 	    dates = "April 2021 - April 2023"
 	    company = "New Leaf Management, Vancouver BC, Canada, Vancouver BC, Canada"
