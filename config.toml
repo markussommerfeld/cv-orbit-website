@@ -261,21 +261,16 @@ disable404 = true
 	    intro = "" #**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus
 		# This section lists up some of the lates projects I worked on.
 		
-	    [[params.projects.list]]
-	    title = "Engineering Consultant: New Leaf"
-	    url = "http://www.newleaf.co/"
-	    tagline = "Consulted researchers in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. Estimated power and mechanical tether load for various system sizes using numerical optimization based on realistic wind speed profiles. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
+	    # [[params.projects.list]]
+	    # title = "Engineering Consultant: New Leaf"
+	    # url = "http://www.newleaf.co/"
+	    # tagline = "Consulted researchers in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. Estimated power and mechanical tether load for various system sizes using numerical optimization based on realistic wind speed profiles. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
 
 	    [[params.projects.list]]
 	    title = "Engineering Consultant: Ocean Rodeo"
 	    url = "https://oceanrodeo.com/"
 	    tagline = "Generated concepts and designed a small-scale Airborne Wind Energy System for mobile deployment in collaboration with kite engineers and kiteboarding experts. This project was partially funded through NSERC Engage Grant and NRC-IRAP grants."
 
-	    [[params.projects.list]]
-	    title = "Teaching Assistant"
-	    url = "https://www.uvic.ca"
-	    tagline = "Supervised final design capstone projects. Organized and led meetings. Evaluated performance and tracked progress. Tutored engineering mechanics, fluid mechanics and wind energy tutorials as well as laboratories. Co-developed material for an online wind energy course. "
-	
 	    [[params.projects.list]]
 	    title = "Grad Student Representative"
 	    url = "https://gss.uvic.ca/"
@@ -409,7 +404,7 @@ disable404 = true
 #    level = "100%"
 
 
-	# Publication section
+	    # Publication section
 		[params.publications]
 		enable = true
 		icon = "fa-newspaper-o"
@@ -417,14 +412,14 @@ disable404 = true
 		intro = ""
 		
 		[[params.publications.list]]
-		title = "Ground-generation airborne wind energy design space exploration"
-		url = "https://doi.org/placeholder"
-		tagline = "Wind Energy Science, Submitted"
+		title = "Impact of wind profiles on ground-generation airborne wind energy system performance"
+		url = "https://doi.org/10.5194/wes-8-1153-2023"
+		tagline = "Wind Energy Scienc, Volume 8, Issue 7, July 2023"
 		
 		[[params.publications.list]]
-		title = "Offshore and onshore ground-generation airborne wind energy power curve characterization"
-		url = "https://doi.org/placeholder"
-		tagline = "Wind Energy Science, Submitted"
+		title = "Scaling effects of fixed-wing ground-generation airborne wind energy systems"
+		url = "https://doi.org/10.5194/wes-7-1847-2022"
+		tagline = "Wind Energy Scienc, Volume 7, Issue 5, Sept. 2022"
 		
 		[[params.publications.list]]
 		title = "Airborne wind energy trajectory optimization using realistic wind speed profiles"
@@ -449,12 +444,12 @@ disable404 = true
 		[[params.publications.list]]
 		title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
 		url = "https://doi.org/10.5194/wes-4-563-2019"
-		tagline = "Wind Energy Science, Volume 4, Issue 4, October 2019"
+		tagline = "Wind Energy Science, Volume 4, Issue 4, Oct. 2019"
 
 		[[params.publications.list]]
 		title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
 		url = "https://doi.org/10.1002/we.2343"
-		tagline = "Wiley Wind Energy: Volume22, Issue 8, August 2019"
+		tagline = "Wiley Wind Energy: Volume22, Issue 8, Aug. 2019"
 
 		[[params.publications.list]]
 		title = "High Altitude LiDAR Measurements of the Wind Conditions for Airborne Wind Energy Systems"
