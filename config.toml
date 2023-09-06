@@ -198,7 +198,7 @@ disable404 = true
 	
 	    [[params.jobs.list]]
 	    position = "Senior Mechanical Engineer"
-	    dates = "April 2021 - April 2023"
+	    dates = "Apr. 2021 - Apr. 2023"
 	    company = "New Leaf Management, Vancouver BC, Canada, Vancouver BC, Canada"
 	    project = "Project: Research and development of a hydraulic Airborne Wind Energy ground station"
 	    details = "- Led a project to develop and refactor a detailed simulation toolbox for hydraulic piston motor models in Matlab Simulink. \n -	Organized and led regular technical meetings for a team of five, overseeing project progress, coordinating software interfaces, and ensuring the achievement of satisfactory delivery. \n -	Initiated and administrated cloud-based version control and collaborative development via GitHub, ensuring seamless coordination among team members for enhanced project efficiency. \n -	Designed and sized ground station components for utility-scale systems in direct collaboration with customers and suppliers, ensuring alignment with precise requirements and optimal integration."
@@ -253,27 +253,8 @@ disable404 = true
 	    details = "- Master Thesis at the Fraunhofer Institute for Wind Energy Systems: Designed and built a test bench for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). \n -	Research project at the Institute for Fluid Mechanics and Turbomachinery: Designed and manufactured a scaled model of an Audi R8 tailored for wind tunnel experimentation and validated the test results via CFD simulations (grade 1.0). \n -	Research project at the Institute for Mechanical and Automotive Design: Investigated the impact of compressibility on high-pressure water jet cutting by implementing user-defined functions into CFD models (grade 1.0)."
 
 
-	  [[params.jobs.list]]
-	    position = "Graduate Intern: Test Engineer"
-	    dates = "2013 - 2014"
-	    company = "TÜV Rheinland, Solar Energy Assessment Center, Yokohama, Japan"
-	    details = "Diligently performed and evaluated certification tests of photovoltaic modules, such as hail impact tests or humidity freeze tests, according to international standards (IEC 61215, 61730 and 61646). Designed and implemented module breakage test rig. Assisted in on-site inspections and safety assessments. Calculated annual energy yield predictions for local, large-scale solar power plants and developed an uncertainty estimation to improve revenue predictions for local customers."
-
-	   [[params.jobs.list]]
-	    position = "Graduate Intern: Test and Design Engineer"
-	    dates = "2012"
-	    company = "Airbus Operations, Structures Test center, Hamburg, Germany"
-	    details = "Independently planned, executed and analyzed component tests on CFRP A350 fuselage parts and lighting strike repair patches. Supported experienced project engineers with scheduling tests, progress tracking and data acquisition. Collaborated on the design, supervised the manufacturing and commissioned the A400M roller system test rig."
-		
-	    #[[params.jobs.list]]
-	    #position = "Grad student representative"
-	    #dates = "2016 - 2017"
-	    #company = "University of  Victoria, Canada"
-	    #details = "**Describe your role here** Organizational and finance committee experience"
-
-	
-	# Projects section
-	[params.projects]
+	    # Projects section
+	    [params.projects]
 	    enable = true
 	    icon = "fa-archive"
 	    title = "Projects"
