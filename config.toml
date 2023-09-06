@@ -209,20 +209,50 @@ disable404 = true
 	    company = "University of Victoria, Institute for Integrated Energy Systems, Victoria BC, Canada"
 	    project = "Topic: Potential and Scalability of Airborne Wind Energy"
 	    details = "- Investigated the energy potential of novel Airborne Wind Energy Systems, based on LiDAR wind measurements as well as large-scale wind and weather models. \n - Implemented machine learning techniques to classify wind conditions, resulting in a substantial reduction of computational cost for the trajectory optimization of tethered aircraft within the context of a comprehensive sizing study. \n - Collaborated with global research groups, published articles in high-impact journals, presented at international conferences, and effectively conveyed complex research to diverse, non-technical audiences."
+	   
+	    [[params.jobs.list]]
+        position = "Teaching Assistant"
+        dates = "May 2016 - Dec. 2020"
+        company = "University of Victoria, Institute for Integrated Energy Systems, Victoria BC, Canada"
+        project = "Courses: Wind Energy, Fluid Mechanics, final design projects"
+        details = "- Co-Developed online learning resources for the 2020 wind energy course, successfully adapting to the challenges posed by the COVID-19 pandemic. \n - Assumed an integral instructional role by conducting engaging tutorials, labs, and lectures focused on wind energy, and fluid mechanics. \n -	Guided and supervised groups of undergraduate students through their final design projects, rigorously evaluated their performance, tracked their progress to ensure successful project completion."
+
+        [[params.jobs.list]]
+        position = "Research Assistant"
+        dates = "May 2016 - Dec. 2020"
+        company = "Fraunhofer IWES, Bremerhaven, Germany"
+        project = "Project: ‘BladeMaker’ Wind Turbine Blade Manufacturing"
+        details = "- Demonstrated ongoing dedication by continued participation in the 'BladeMaker' project following the completion of my master's thesis. \n - Contributed valuable insights and expertise to the development of an automated rotor blade manufacturing process."
+
+        [[params.jobs.list]]
+        position = "Graduate Intern"
+        dates = "Aug. 2013 - Jan. 2014"
+        company = "TÜV Rheinland, Solar Energy Assessment Center, Yokohama, Japan"
+        project = "Project: Solar panel testing and certification"
+        details = "- Conducted and evaluated photovoltaic module certification tests, such as hail impact tests or humidity freeze tests, adhering closely to international standards.\n - Actively participated in on-site inspections and safety assessments. \n - Calculated annual energy yield predictions for large-scale solar power plants and developed an uncertainty estimation, enhancing the precision of customer revenue projections."
+
+        [[params.jobs.list]]
+        position = "Graduate Intern"
+        dates = "May 2012 - Oct. 2012"
+        company = "Airbus SE, Structures Test center, Hamburg, Germany"
+        project = "Project:Structural testing and design of load applications"
+        details = "- Independently designed the A400M roller system test bench, working collaboratively with design engineers and the workshop department to ensure seamless execution. \n - Planned, executed, and analyzed a series of component tests on CFRP A350 fuselage parts and lighting strike repair patches. - 	Provided crucial assistance to experienced project and load engineers by supporting test scheduling, efficient progress tracking and precise data acquisition."
+
+        [[params.jobs.list]]
+        position = "Teaching & Research Assistant"
+        dates = "Sept. 2009 - July 2013"
+        company = "Technical University of Kaiserlautern, Germany"
+        project = "Courses: Engineering Mechanics (1-4), Composite Materials"
+        details = "- Provided comprehensive tutoring sessions to groups of undergraduate students \n - Prepared CFRP test specimens and simulated their behaviour under load in FEA  "
 
 	    [[params.jobs.list]]
-	    position = "Engineering Consultant: various Projects"
-	    dates = "2018 - 2020"
-	    company = "University of Victoria, Institute for Integrated Energy Systems, Victoria BC, Canada"
-	    details = "Consulted several start-ups and local companies about the development of novel wind energy technologies by sharing technical knowledge, assessing feasibility and performing concept studies. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
+	    position = "Diplom-Ingenieur Maschinenbau (equiv. of Master)"
+	    dates = "Apr. 2008 - Dec. 2014"
+	    company = "Technical University of Kaiserslautern, Germany"
+	    project = "Major: Energy Technology"
+	    details = "- Master Thesis at the Fraunhofer Institute for Wind Energy Systems: Designed and built a test bench for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). \n -	Research project at the Institute for Fluid Mechanics and Turbomachinery: Designed and manufactured a scaled model of an Audi R8 tailored for wind tunnel experimentation and validated the test results via CFD simulations (grade 1.0). \n -	Research project at the Institute for Mechanical and Automotive Design: Investigated the impact of compressibility on high-pressure water jet cutting by implementing user-defined functions into CFD models (grade 1.0)."
 
-	
-	    [[params.jobs.list]]
-	    position = "Research Assistant: Wind Turbine Blade Manufacturing"
-	    dates = "2015"
-	    company = "Fraunhofer IWES, Bremerhaven, Germany"
-	    details = "Continued working on the 'BladeMaker' project after finishing my diploma thesis. My design work and prototyping of an automated laying head contributed to the development of an automated rotor blade manufacturing process which reduces the manufacturing costs by over 10% while maintaining high production quality."
-	
+
 	  [[params.jobs.list]]
 	    position = "Graduate Intern: Test Engineer"
 	    dates = "2013 - 2014"
