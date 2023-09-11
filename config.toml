@@ -250,7 +250,7 @@ disable404 = true
 	    dates = "Apr. 2008 - Dec. 2014"
 	    company = "Technical University of Kaiserslautern, Germany"
 	    project = "Major: Energy Technology"
-	    details = "- Master Thesis at the Fraunhofer Institute for Wind Energy Systems: Designed and built a test bench for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). \n -	Research project at the Institute for Fluid Mechanics and Turbomachinery: Designed and manufactured a scaled model of an Audi R8 tailored for wind tunnel experimentation and validated the test results via CFD simulations (grade 1.0). \n -	Research project at the Institute for Mechanical and Automotive Design: Investigated the impact of compressibility on high-pressure water jet cutting by implementing user-defined functions into CFD models (grade 1.0)."
+	    details = "- Master Thesis at the Fraunhofer Institute for Wind Energy Systems: Designed and built a test bench for the automated manufacturing of wind turbine blade spar caps. \n -	Research project at the Institute for Fluid Mechanics and Turbomachinery: Designed and manufactured a scaled model of an Audi R8 tailored for wind tunnel experimentation and validated the test results via CFD simulations. \n -	Research project at the Institute for Mechanical and Automotive Design: Investigated the impact of compressibility on high-pressure water jet cutting by implementing user-defined functions into CFD models."
 
 
 	    # Projects section
@@ -284,7 +284,7 @@ disable404 = true
 		[[params.projects.list]]
 	    title = "Diploma Thesis"
 	    url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
-	    tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps (grade: 1.0). This project was part of the BladMaker project at Fraunhofer IWES."
+	    tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). This project was part of the BladMaker project at Fraunhofer IWES."
 
 	    [[params.projects.list]]
 	    title = "Student Assistant"
