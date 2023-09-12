@@ -286,10 +286,10 @@ disable404 = true
 	    # url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
 	    # tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). This project was part of the BladMaker project at Fraunhofer IWES."
 
-	    [[params.projects.list]]
-	    title = "Student Assistant"
-	    url = "https://www.ivw.uni-kl.de/en/home"
-	    tagline = "Preparation, execution of CFRP test specimens for static load tests. FEA modeling and stress estimation of these tests."
+	    # [[params.projects.list]]
+	    # title = "Student Assistant"
+	    # url = "https://www.ivw.uni-kl.de/en/home"
+	    # tagline = "Preparation, execution of CFRP test specimens for static load tests. FEA modeling and stress estimation of these tests."
 
 	    # [[params.projects.list]]
 	    # title = "Student Research Project"
