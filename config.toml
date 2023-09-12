@@ -266,10 +266,10 @@ disable404 = true
 	    # url = "http://www.newleaf.co/"
 	    # tagline = "Consulted researchers in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. Estimated power and mechanical tether load for various system sizes using numerical optimization based on realistic wind speed profiles. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
 
-	    [[params.projects.list]]
-	    title = "Engineering Consultant: Ocean Rodeo"
-	    url = "https://oceanrodeo.com/"
-	    tagline = "Generated concepts and designed a small-scale Airborne Wind Energy System for mobile deployment in collaboration with kite engineers and kiteboarding experts. This project was partially funded through NSERC Engage Grant and NRC-IRAP grants."
+	    # [[params.projects.list]]
+	    # title = "Engineering Consultant: Ocean Rodeo"
+	    # url = "https://oceanrodeo.com/"
+	    # tagline = "Generated concepts and designed a small-scale Airborne Wind Energy System for mobile deployment in collaboration with kite engineers and kiteboarding experts. This project was partially funded through NSERC Engage Grant and NRC-IRAP grants."
 
 	    [[params.projects.list]]
 	    title = "Grad Student Representative"
@@ -281,26 +281,26 @@ disable404 = true
 	    url = "https://www.uvic.ca/innovation/"
 	    tagline = "Co-founded an organization to promote student entrepreneurship. Planned several events and organized speakers together with the Coast Capital Innovation Centre. Participated and won business idea pitch competitions."
 	    
-		[[params.projects.list]]
-	    title = "Diploma Thesis"
-	    url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
-	    tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). This project was part of the BladMaker project at Fraunhofer IWES."
+		# [[params.projects.list]]
+	    # title = "Diploma Thesis"
+	    # url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
+	    # tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). This project was part of the BladMaker project at Fraunhofer IWES."
 
 	    [[params.projects.list]]
 	    title = "Student Assistant"
 	    url = "https://www.ivw.uni-kl.de/en/home"
 	    tagline = "Preparation, execution of CFRP test specimens for static load tests. FEA modeling and stress estimation of these tests."
 
-	    [[params.projects.list]]
-	    title = "Student Research Project"
-	    url = "https://www.mv.uni-kl.de/en/sam/"
-	    tagline = "Designed and manufactured a scaled model of an Audi R8 for wind tunnel testing. Simulated aerodynamic reference CFD model for validation (grade 1.0). This project was supervised by the Institute of Fluid Mechanics and Turbomachinery at the Technical University of Kaiserslautern."
-		#I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation.
+	    # [[params.projects.list]]
+	    # title = "Student Research Project"
+	    # url = "https://www.mv.uni-kl.de/en/sam/"
+	    # tagline = "Designed and manufactured a scaled model of an Audi R8 for wind tunnel testing. Simulated aerodynamic reference CFD model for validation (grade 1.0). This project was supervised by the Institute of Fluid Mechanics and Turbomachinery at the Technical University of Kaiserslautern."
+		# I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation.
 	
-	    [[params.projects.list]]
-	    title = "Student Research Project:"
-	    url = "https://www.mv.uni-kl.de/en/imad/"
-	    tagline = "Numerically investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a CFD model and evaluating the impact of various model parameters (grade 1.0).  This project was supervised by the Institute for Mechanical and Automotive Design at the Technical University of Kaiserslautern."
+	    # [[params.projects.list]]
+	    # title = "Student Research Project:"
+	    # url = "https://www.mv.uni-kl.de/en/imad/"
+	    # tagline = "Numerically investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a CFD model and evaluating the impact of various model parameters (grade 1.0).  This project was supervised by the Institute for Mechanical and Automotive Design at the Technical University of Kaiserslautern."
 
 # Skills section
 
@@ -501,7 +501,7 @@ disable404 = true
 # you can check out other license options via template author's website: themes.3rdwavemedia.com
 
 # 
-
+ 
 # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
 
 [params.footer]
