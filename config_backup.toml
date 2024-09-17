@@ -1,0 +1,510 @@
+# Page settings
+
+baseurl = "https://markussommerfeld-cv.netlify.com/"
+languageCode = "en-us"
+title = "Markus Sommerfeld Resume"
+theme = "hugo-orbit-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+# Do not build files for websites. Need them? Set to false
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+[params]
+
+# Meta
+    description = "CV Markus Sommerfeld"
+    author = "Markus Sommerfeld"
+
+# Theme styles
+
+    # The original template comes with 6 colour schemes. You may choose styles below.
+    # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
+    # are available. Also the source LESS files are included so
+    # it’s quick and easy to change the styling and colour scheme.
+    
+    styles = "styles.css"
+
+# Sidebar sections
+
+    # Profile section
+    [params.profile]
+        name = "Markus Sommerfeld"
+        tagline = "PhD in Mechanical Engineering"
+		#birthday = "3 February 1987"
+		#location = "Victoria, BC, Canada"
+        avatar = "profile.png"
+    
+    # Contact section
+    [params.contact]
+        enable = true
+		
+		# profile additional section
+		[params.profile_info]
+        enable = true
+        title = "profile_info"		
+    
+        [[params.profile_info.list]]
+		class = "birthday"
+		icon = "fa-birthday-cake"
+        title = "3 February 1987"
+		
+		[[params.profile_info.list]]
+		class = "location"
+		icon = "fa-map-marker"
+        title = "Tokyo, Japan"
+		
+		#[[params.contact.list]]
+        #class = "website"
+        #icon = "fa-birthday-cake"
+        #url = ""
+        #title = "1987 February 3"
+		
+		#[[params.contact.list]]
+        #class = "website"
+        #icon = "fa-map-marked-alt"
+        #url = ""
+        #title = "Victoria, BC Canada"
+		
+    
+        [[params.contact.list]]
+        class = "email"
+        icon = "fa-envelope"
+        url = "mailto: markus_sommerfeld@yahoo.de"
+        title = "markus_sommerfeld@yahoo.de"
+		#url = "mailto: msommerf@uvic.ca"
+        #title = "msommerf@uvic.ca"
+    
+	
+	
+    #    [[params.contact.list]]
+    #    class = "phone"
+    #    icon = "fa-phone"
+    #    url = "tel:+1234567890"
+    #    title = "+1234567890"
+    
+        #[[params.contact.list]]
+        #class = "website"
+        #icon = "fa-globe"
+        #url = "" #https://markussommerfeld-academic.netlify.com/
+        #title = "markussommerfeld-academic.com"
+    
+        [[params.contact.list]]
+        class = "linkedin"
+        icon = "fa-linkedin"
+        url = "https://www.linkedin.com/in/markus-sommerfeld/"
+        title = "markus-sommerfeld"
+    
+        [[params.contact.list]]
+        class = "github"
+        icon = "fa-github"
+        url = "https://github.com/markussommerfeld"
+        title = "markussommerfeld"
+    
+        #[[params.contact.list]]
+        #class = "twitter"
+        #icon = "fa-twitter"
+        #url = "https://twitter.com/Dudegoesplaces"
+        #title = "@Dudegoesplaces"
+    	
+    	[[params.contact.list]]
+        class = "researchgate"
+        icon = "ai ai-researchgate ai-3x"
+        url = "https://www.researchgate.net/profile/Markus_Sommerfeld"
+        title = "Markus_Sommerfeld"
+
+
+    # Education section
+    [params.education]
+        enable = true
+        title = "Education"
+    
+    	[[params.education.list]]
+        degree = "PhD. in Mechanical Engineering"
+        college = "University of Victoria, BC, Canada"
+        dates = "2015 - 2020"
+    	
+        [[params.education.list]]
+        degree = "Dipl.-Ing. in Mechanical Engineering"
+        college = "Technical University Kaiserslautern, Germany"
+        dates = "2008 - 2014"
+    	
+        [[params.education.list]]
+        degree = "High School"
+        college = "Paul Schneider Gymnasium, Meisenheim, Germany"
+        dates = "1997 - 2007"
+    
+    # Languages section
+    [params.language]
+       enable = true
+       title = "Languages"
+    
+       [[params.language.list]]
+       language = "German"
+       level = "Native speaker"
+    
+       [[params.language.list]]
+       language = "English"
+       level = "Full proficiency"
+    
+       [[params.language.list]]
+       language = "Japanese"
+       level = "Conversational"
+    
+      # [[params.language.list]]
+      # language = "French"
+      # level = "2"
+    
+    # Interests section
+    [params.interests]
+        enable = true
+        title = "Hobbies & Interests"		
+    
+        [[params.interests.list]]
+        interest = "Crossfit & running"
+		icon = "fa fa-thumbs-up"
+
+        [[params.interests.list]]
+        interest = "Learning Japanese"
+		icon = "fa fa-graduation-cap"
+        
+		#[[params.interests.list]]
+		#interest = "Inventing stuff"
+		#icon = "fa fa-cogs"
+
+		[[params.interests.list]]
+		interest = "Working on website"
+		icon = "fa fa-rebel"
+		
+# Main body sections
+
+	# You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
+
+	# Summary section
+
+	[params.summary]
+		enable = true
+		icon = "fa-user"
+		title = "Career Profile"
+		summary = "Possessing a Master’s degree and Ph.D. in Mechanical Engineering, I specialize in wind resource assessment and performance modeling. I have a strong background in data analysis, simulation and model development, as well as a comprehensive understanding of solar power assessment and structural testing. I have a proven track record in teaching, effective technical communication, and public speaking. I thrive in a global, multi-cultural setting, having contributed to projects across a wide range of locations and cultures including Canada, Germany, and Japan. I collaborate seamlessly with remote teams to efficiently deliver satisfying  project outcomes."    
+
+
+	# Experiences section
+	[params.experiences]
+	    enable = true
+	    icon = "fa-briefcase"
+	    title = "Work Experience"
+	
+	    [[params.jobs.list]]
+	    position = "Senior Mechanical Engineer"
+	    dates = "Apr. 2021 - Apr. 2023"
+	    company = "New Leaf Management, Vancouver BC, Canada, Vancouver BC, Canada"
+	    project = "Project: Research and development of a hydraulic Airborne Wind Energy ground station"
+	    details = "- Led a project to develop and refactor a detailed simulation toolbox for hydraulic piston motor models in Matlab Simulink. \n -	Organized and led regular technical meetings for a team of five, overseeing project progress, coordinating software interfaces, and ensuring the achievement of satisfactory delivery. \n -	Initiated and administrated cloud-based version control and collaborative development via GitHub, ensuring seamless coordination among team members for enhanced project efficiency. \n -	Designed and sized ground station components for utility-scale systems in direct collaboration with customers and suppliers, ensuring alignment with precise requirements and optimal integration."
+
+	    [[params.jobs.list]]
+	    position = "Ph.D. in Mechanical Engineering"
+	    dates = "Sept. 2015 – Dec. 2020"
+	    company = "University of Victoria, Institute for Integrated Energy Systems, Victoria BC, Canada"
+	    project = "Topic: Potential and Scalability of Airborne Wind Energy"
+	    details = "- Investigated the energy potential of novel Airborne Wind Energy Systems, based on LiDAR wind measurements as well as large-scale wind and weather models. \n - Implemented machine learning techniques to classify wind conditions, resulting in a substantial reduction of computational cost for the trajectory optimization of tethered aircraft within the context of a comprehensive sizing study. \n - Collaborated with global research groups, published articles in high-impact journals, presented at international conferences, and effectively conveyed complex research to diverse, non-technical audiences."
+	   
+	    [[params.jobs.list]]
+        position = "Teaching Assistant"
+        dates = "May 2016 - Dec. 2020"
+        company = "University of Victoria, Institute for Integrated Energy Systems, Victoria BC, Canada"
+        project = "Courses: Wind Energy, Fluid Mechanics, final design projects"
+        details = "- Co-Developed online learning resources for the 2020 wind energy course, successfully adapting to the challenges posed by the COVID-19 pandemic. \n - Assumed an integral instructional role by conducting engaging tutorials, labs, and lectures focused on wind energy, and fluid mechanics. \n -	Guided and supervised groups of undergraduate students through their final design projects, rigorously evaluated their performance, tracked their progress to ensure successful project completion."
+
+        [[params.jobs.list]]
+        position = "Research Assistant"
+        dates = "May 2016 - Dec. 2020"
+        company = "Fraunhofer IWES, Bremerhaven, Germany"
+        project = "Project: ‘BladeMaker’ Wind Turbine Blade Manufacturing"
+        details = "- Demonstrated ongoing dedication by continued participation in the 'BladeMaker' project following the completion of my master's thesis. \n - Contributed valuable insights and expertise to the development of an automated rotor blade manufacturing process."
+
+        [[params.jobs.list]]
+        position = "Graduate Intern"
+        dates = "Aug. 2013 - Jan. 2014"
+        company = "TÜV Rheinland, Solar Energy Assessment Center, Yokohama, Japan"
+        project = "Project: Solar panel testing and certification"
+        details = "- Conducted and evaluated photovoltaic module certification tests, such as hail impact tests or humidity freeze tests, adhering closely to international standards.\n - Actively participated in on-site inspections and safety assessments. \n - Calculated annual energy yield predictions for large-scale solar power plants and developed an uncertainty estimation, enhancing the precision of customer revenue projections."
+
+        [[params.jobs.list]]
+        position = "Graduate Intern"
+        dates = "May 2012 - Oct. 2012"
+        company = "Airbus SE, Structures Test center, Hamburg, Germany"
+        project = "Project:Structural testing and design of load applications"
+        details = "- Independently designed the A400M roller system test bench, working collaboratively with design engineers and the workshop department to ensure seamless execution. \n - Planned, executed, and analyzed a series of component tests on CFRP A350 fuselage parts and lighting strike repair patches. - 	Provided crucial assistance to experienced project and load engineers by supporting test scheduling, efficient progress tracking and precise data acquisition."
+
+        [[params.jobs.list]]
+        position = "Teaching & Research Assistant"
+        dates = "Sept. 2009 - July 2013"
+        company = "Technical University of Kaiserlautern, Germany"
+        project = "Courses: Engineering Mechanics (1-4), Composite Materials"
+        details = "- Provided comprehensive tutoring sessions to groups of undergraduate students \n - Prepared CFRP test specimens and simulated their behaviour under load in FEA  "
+
+	    [[params.jobs.list]]
+	    position = "Diplom-Ingenieur Maschinenbau (equiv. of Master)"
+	    dates = "Apr. 2008 - Dec. 2014"
+	    company = "Technical University of Kaiserslautern, Germany"
+	    project = "Major: Energy Technology"
+	    details = "- Master Thesis at the Fraunhofer Institute for Wind Energy Systems: Designed and built a test bench for the automated manufacturing of wind turbine blade spar caps. \n -	Research project at the Institute for Fluid Mechanics and Turbomachinery: Designed and manufactured a scaled model of an Audi R8 tailored for wind tunnel experimentation and validated the test results via CFD simulations. \n -	Research project at the Institute for Mechanical and Automotive Design: Investigated the impact of compressibility on high-pressure water jet cutting by implementing user-defined functions into CFD models."
+
+
+	    # Projects section
+	    [params.projects]
+	    enable = true
+	    icon = "fa-archive"
+	    title = "Projects"
+	    intro = "" #**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus
+		# This section lists up some of the lates projects I worked on.
+		
+	    # [[params.projects.list]]
+	    # title = "Engineering Consultant: New Leaf"
+	    # url = "http://www.newleaf.co/"
+	    # tagline = "Consulted researchers in their development of a novel Airborne Wind Energy Ground Station and a follow-up study on Airborne Wind Energy sizing. Estimated power and mechanical tether load for various system sizes using numerical optimization based on realistic wind speed profiles. These projects were partially funded through NSERC Engage Grant and NRC-IRAP grants."
+
+	    # [[params.projects.list]]
+	    # title = "Engineering Consultant: Ocean Rodeo"
+	    # url = "https://oceanrodeo.com/"
+	    # tagline = "Generated concepts and designed a small-scale Airborne Wind Energy System for mobile deployment in collaboration with kite engineers and kiteboarding experts. This project was partially funded through NSERC Engage Grant and NRC-IRAP grants."
+
+	    [[params.projects.list]]
+	    title = "Grad Student Representative"
+	    url = "https://gss.uvic.ca/"
+	    tagline = "Oversaw the Graduate Students' Society's annual budget of $1.7MM during the three year tenure as a member of the finance committee. Planned and monitored the renovation of the university’s “Grad House” restaurant, together with other representatives, staff and managers."
+	  
+		[[params.projects.list]]
+	    title = "Co-Founder: Entrpreneurship Playground"
+	    url = "https://www.uvic.ca/innovation/"
+	    tagline = "Co-founded an organization to promote student entrepreneurship. Planned several events and organized speakers together with the Coast Capital Innovation Centre. Participated and won business idea pitch competitions."
+	    
+		# [[params.projects.list]]
+	    # title = "Diploma Thesis"
+	    # url = "https://www.iwes.fraunhofer.de/en/research-projects/finished-projects-20171/blademaker.html"
+	    # tagline = "Developed, designed and commissioned a carbon fiber roving impregnation device for the automated manufacturing of wind turbine blade spar caps (grade: 1.1). This project was part of the BladMaker project at Fraunhofer IWES."
+
+	    # [[params.projects.list]]
+	    # title = "Student Assistant"
+	    # url = "https://www.ivw.uni-kl.de/en/home"
+	    # tagline = "Preparation, execution of CFRP test specimens for static load tests. FEA modeling and stress estimation of these tests."
+
+	    # [[params.projects.list]]
+	    # title = "Student Research Project"
+	    # url = "https://www.mv.uni-kl.de/en/sam/"
+	    # tagline = "Designed and manufactured a scaled model of an Audi R8 for wind tunnel testing. Simulated aerodynamic reference CFD model for validation (grade 1.0). This project was supervised by the Institute of Fluid Mechanics and Turbomachinery at the Technical University of Kaiserslautern."
+		# I deepened my CAD design and CFD expertise and gained practical experience in wind tunnel operation.
+	
+	    # [[params.projects.list]]
+	    # title = "Student Research Project:"
+	    # url = "https://www.mv.uni-kl.de/en/imad/"
+	    # tagline = "Numerically investigated the impact of compressibility on high-pressure water jet cutting by implementing a user-defined function into a CFD model and evaluating the impact of various model parameters (grade 1.0).  This project was supervised by the Institute for Mechanical and Automotive Design at the Technical University of Kaiserslautern."
+
+# Skills section
+
+[params.skills]
+    enable = true
+    icon = "fa-rocket"
+    title = "Skills & Proficiency"
+
+    [[params.skills.list]]
+    skill = "Wind Measurement: LiDAR & Metmast"
+    level = "100%"
+	
+    [[params.skills.list]]
+    skill = "Data Analysis & Visualization: Python & Matlab"
+    level = "100%"
+        
+    [[params.skills.list]]
+    skill = "Wind Modelling: WRF"
+    level = "80%"
+
+	[[params.skills.list]]
+    skill = "Dynamic Modeling: Matlab Simulink"
+    level = "100%"
+	
+	[[params.skills.list]]
+    skill = "Project Management"
+    level = "90%"
+    
+	[[params.skills.list]]
+    skill = "Public Speaking"
+    level = "100%"
+        	            
+	[[params.skills.list]]
+    skill = "MS Office & Latex"
+    level = "100%"
+						 
+    [[params.skills.list]]
+    skill = "Windows & Linux"
+    level = "100%"
+    
+    [[params.skills.list]]
+    skill = "Fluid Simulation: Ansys Fluent"
+    level = "80%"
+    
+    [[params.skills.list]]
+    skill = "CAD software: Catia, Solid Edge"
+    level = "80%"
+    
+   	[[params.skills.list]]
+    skill = "Solar Modelling: PVsyst"
+    level = "60%"
+
+    [[params.skills.list]]
+    skill = "FEA: ANSYS Mechanical"
+    level = "60%"
+
+
+
+
+# Soft Skills section
+
+ [params.softskills]
+    enable = false
+#    icon = "fa-commenting"
+#    title = "Personal Skills"
+
+#	[[params.softskills.list]]
+#    skill = "Self-Management"
+#    level = "100%"
+		
+#	[[params.softskills.list]]
+#    skill = "Teamwork"
+#    level = "80%"
+	
+#	[[params.softskills.list]]
+#    skill = "Creativity"
+#    level = "80%"
+	
+#	[[params.softskills.list]]
+#    skill = "Problem Solving"
+#    level = "100%"
+		
+#	[[params.softskills.list]]
+#    skill = "Proactive"
+#    level = "90%"
+	
+#	[[params.softskills.list]]
+#    skill = "Public Speaking"
+#    level = "90%"
+
+#	[[params.softskills.list]]
+#    skill = "Communication"
+#    level = "80%"
+	
+#	[[params.softskills.list]]
+#    skill = "Critical Thinking"
+#    level = "80%"
+	
+#	[[params.softskills.list]]
+#    skill = "Adaptability"
+#    level = "100%"
+
+
+	    # Publication section
+		[params.publications]
+		enable = true
+		icon = "fa-newspaper-o"
+		title = "Publications"
+		intro = ""
+		
+		[[params.publications.list]]
+		title = "Impact of wind profiles on ground-generation airborne wind energy system performance"
+		url = "https://doi.org/10.5194/wes-8-1153-2023"
+		tagline = "Wind Energy Scienc, Volume 8, Issue 7, July 2023"
+		
+		[[params.publications.list]]
+		title = "Scaling effects of fixed-wing ground-generation airborne wind energy systems"
+		url = "https://doi.org/10.5194/wes-7-1847-2022"
+		tagline = "Wind Energy Scienc, Volume 7, Issue 5, Sept. 2022"
+		
+		[[params.publications.list]]
+		title = "Airborne wind energy trajectory optimization using realistic wind speed profiles"
+		url = "https://doi.org/10.5281/zenodo.3357152"
+		tagline = "Wind Energy Science Conference 2019"
+		
+		[[params.publications.list]]
+		title = "Mesoscale model based techniques for LiDAR wind speed measurement gap-filling"
+		url = "https://doi.org/10.5281/zenodo.3357147"
+		tagline = "Wind Energy Science Conference 2019"
+
+		[[params.publications.list]]
+		title = "Parametric AWES Sizing Study Using Mesoscale Wind Profiles"
+		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+		tagline = "Airborne Wind Energy Conference 2019"
+		
+		[[params.publications.list]]
+		title = "Coupled Kite-Ground Station Simulink Model for Optimal FlightPath Following Assessment"
+		url = "https://doi.org/10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c"
+		tagline = "Airborne Wind Energy Conference 2019"
+	  
+		[[params.publications.list]]
+		title = "Improving mesoscale wind speed forecasts using lidar-based observation nudging for airborne wind energy systems"
+		url = "https://doi.org/10.5194/wes-4-563-2019"
+		tagline = "Wind Energy Science, Volume 4, Issue 4, Oct. 2019"
+
+		[[params.publications.list]]
+		title = "LiDAR-based characterization of mid-altitude wind conditions for airborne wind energy systems"
+		url = "https://doi.org/10.1002/we.2343"
+		tagline = "Wiley Wind Energy: Volume22, Issue 8, Aug. 2019"
+
+		[[params.publications.list]]
+		title = "High Altitude LiDAR Measurements of the Wind Conditions for Airborne Wind Energy Systems"
+		url = "http://www.awec2017.com/presentations/markus-sommerfeld"
+		tagline = "Airborne Wind Energy Conference 2017"
+
+		[[params.publications.list]]
+		title = "LES generated turbulent inflow fields from mesoscale modeling driven by LiDAR measurements"
+		url = "http://www.awec2017.com/presentations/markus-sommerfeld-2"
+		tagline = "Airborne Wind Energy Conference 2017"
+
+		[[params.publications.list]]
+		title = "AWESome potential: Airborne wind energy’s opportunities and challenges"
+		url = "https://youtu.be/UiriQHZMcs0"
+		tagline = "Pacific Institute for Climate Solutions, March 2018"
+
+
+
+
+# Presentation section
+
+#[params.presentations]
+#enable = true
+#icon = "fa-presentation"
+#title = "Presentations"
+#intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+#
+#[[params.presentations.list]]
+
+#    title = "Hugrid"
+
+#    url = "https://github.com/aerohub/hugrid"
+
+#    tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+
+
+
+	 
+
+# Footer section
+
+
+# The original template is released under the Creative Commons Attribution 3.0 License.
+
+# Please keep the original attribution link when using for your own project.
+
+# If you'd like to use the template without the attribution,
+
+# you can check out other license options via template author's website: themes.3rdwavemedia.com
+
+# 
+ 
+# As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
+
+[params.footer]
+    copyright = "Markus Sommerfeld"
+
+
